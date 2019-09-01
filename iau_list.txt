@@ -1,0 +1,407 @@
+04550 Leo N?? N1612 03 30       09 37.3     +15 15           4                  Scheiner
+CK    Vul N:  N1670 06 20       19 47.6     +27 19      1    2.6   20.7         Anthelm
+03846 Pup N?   1673 01 12       07 59.0     -43 49           3     20           Richer
+V529  Ori N?  N1678 03 28       05 58.4     +20 15           6     20.5         Hevelius
+WY    Sge N   N1783             19 32.7     +17 45      1    6     19.5         d'Agelet
+Eta   Car SDORN1843             10 45.0     -59 41          -0.8    9.0
+V841  Oph NB  N1848 04 27       16 59.5     -12 53      2    2     13.5 AN027   Hind
+00856 Tri N?   1853 09 30       03 19.1     +35 29           9.5        HA070
+SZ    Per N?   1853 11 30       03 47.1     +34 20           9.5  (16.5 AN179
+SU    Ari N?  N1854 09 04       02 48.5     +17 21      1    9.5  (14.5 AN189
+W     Ari N?  N1855             03 20.7     +28 58           9.5  (20   AN158
+U     Leo N?  N1855 01 18       10 24.1     +14 01          10.5  (15   AN087
+VZ    Gem N?  11856 03 31       08 07.7     +30 51           8.7  (21   AN180
+SY    Gem N?  21856 14 16       06 40.6     +31 12           9.2  (13   AN177
+T     Boo N?  N1860 04 09       14 14.2     +19 04           9.7   18.5 MN021   Baxendell
+T     Sco N   N1860 05 21  M80  16 17.1     -22 58      1    7    (12   AN053   Luther, Auwers
+V728  Sco N?  N1862 10 04       17 39.2     -45 29           5.0   20   MN038   Tebbutt
+U     Sco NR  N1863 05 20       16 22.5     -17 53           8.8   19.2 RM058   Pogson
+T     CrB NR  N1866 05 12       15 59.5     +25 56      1    2.0   11.3 AN067   Birmingham
+Q     Cyg NA  N1876 11 24       21 41.8     +42 51      2    3.0   15.6 AN089   Schmidt
+AB    Boo N?  N1877 05 30       14 07.0     +20 45           4.5  (11.5 AN155   Schwab
+V     Per N   N1887 12 19       02 01.9     +56 44      1    4.0   18.5 AN126   Fleming
+T     Aur NB  N1891 13 31       05 32.0     +30 27      1    4.2   15.2 AN129   Anderson
+V360  Her N?  N1892 07 08       17 00.7     +24 25           6.3  (15.5 JO010   Baillaud, Grandchamp [= BD +24 3104, TA Sept. 93]
+03313 Gem N?  N1892 08 13       06 58.7     +17 02           7.0  (14.0 AN172   Barnard
+V384  Sco N:  N1893 04 30       18 01.7     -35 39           9.3   18.5 HB902   Swope
+07542 Oph N?   1893 07 01 mp?   16 13.5     -05 19          11.5   21   AN228
+IL    Nor NB  N1893 07 10       15 29.4     -50 35      1    7.0   18   AN134   Fleming
+RS    Car N   N1895 04 08       11 08.1     -61 56      1    5.0  (22   AN139   Fleming
+12329 Sgr N?   1896             19 43.9     -40 26                      HA056   Fleming
+BB    Oph N:  N1897             17 24.5     -24 48          11.3   19   HB835   Woods
+LQ    Sgr N:  N1897 09 21       18 28.4     -27 55          13.0   21   HB859   Woods
+RS    Oph NR  N1898             17 50.2     -06 43      3    4.3   12.5 AN254   Fleming
+RR    Tel ZAND 1898             20 04.3     -55 43           6.8   16   AN179   Fleming
+V1059 Sgr NA  N1898 03 08       19 01.8     -13 10      1    2.0   18.1 AN149   Fleming
+V606  Aql NA  N1899 04 21       19 20.4     -00 08      1    5.5   17.3 AN153   Fleming
+V1016 Sgr Nb: N1899 10 13       18 20.0     -25 12      3    8.4   17   AN186   Cannon
+HS    Sgr NB: N1900             18 28.1     -21 34          10.0   17   HB851   Woods
+AT    Sgr NA  N1900             18 03.5     -26 29          10     19   AN167   Leavitt
+GK    Per NA  N1901 02 21       03 31.2     +43 54      2    0.2   14.0 AN154   Anderson
+V1014 Sgr NA: N1901 05 22       18 06.7     -27 27      4   10.9   20   AN188   Cannon
+V382  Sco N:  N1901 09 02       17 52.0     -35 26           9.5   22   HB902   Swope
+T     Pyx NR  N1902             09 04.7     -32 23           6.5   15.3 AN197   Leavitt
+DY    Pup NB: N1902 11 19       08 13.8     -26 34      1    7.0   20   HB760   Woods
+DM    Gem NA  N1903 03 16       06 44.2     +29 57      1    4.8   16.7 AN161   Turner
+X     Ser NB: N1903 05          16 19.3     -02 29           8.9   18.3 AN179   Leavitt
+V607  Aql M:  N1904 07 06       19 35.5     +00 43          11.5  (18.5 AN167   Wolf, Wolf, Ross
+V1015 Sgr NA: N1905 08 18       18 09.1     -32 28      6    6.5   21   AN213   Woods
+V604  Aql NA  N1905 08 31       19 02.1     -04 27      2    7.6   21   AN169   Fleming
+SV    Ari N?  N1905 11 06       03 25.1     +19 51      2   12     22   AN169   Wolf, Wolf
+CN    Vel NB  N1905 12 05       11 02.7     -54 23      1   10.2   17   AN173   Leavitt
+AR    Cir N?  N1906 02 14       14 48.1     -60 01      1   10.3   15   HC130   Leavitt
+V711  Sco N:  N1906 04 24       17 54.1     -34 22      2    9.7   19   AN179   Cannon
+VY    Aqr UGWZN1907 08 12       21 12.2     -08 50           8.4   17.2 AJ036   Ross
+RT    Ser ZANDN1909             17 39.9     -11 57          10.6   16   AN204   Wolf, Barnard
+V999  Sgr NB  N1910 03 21       18 00.1     -27 33      2    8.0   17.4 AN186   Fleming
+OY    Ara NA  N1910 04 04       16 40.8     -52 26      1    5.1   17.5 AN186   Fleming
+DI    Lac NA  N1910 12 30       22 35.8     +52 43      1    4.6   14.9 AN186   Espin
+UW    Per UG?  1912 01 12       02 12.5     +57 05          13.5   18.0 AN191   d'Esterre
+DN    Gem NA  N1912 03 12       06 54.9     +32 08      2    3.5   15.8 AN191   Enebo
+V941  Sgr M   N1912 06 21       18 34.7     -29 35          11.0  (17   UC020   Innes
+WZ    Sge UGWZN1913 11 22       20 07.6     +17 43      2    7.0   15.0 AN210   Mackie
+V939  Sgr M   N1914             18 34.3     -26 54          14.2  (16.3 UC020   Innes
+AI    Cir N:  N1914 06 13       14 49.6     -68 51      3   10.9   23   HB883   Florence
+V949  Sgr N:  N1914 07 16       18 41.1     -28 09          15.7  (17   UC020   Innes
+V1012 Sgr NA  N1914 08 12       18 06.3     -31 45      7    8.0   20   AN213   Woods
+GL    Sct N?   1915 05 09       18 45.8     -06 26          13.6  (16.8 LA021   Hanner
+GR    Ori N:  N1916 01 30       05 21.6     +01 10      1   11.5  (21   AN202   Thiele
+SS    Sge ZAND 1916 06          19 39.2     +16 43          11.8   16.3 AN227   Beljawskij
+V840  Oph NA: N1917 04 25       16 54.8     -29 38      5    5.5   20   AN210   Woods
+CI    Aql UG?  1917 06 25       18 52.1     -01 28          11.0   15.6 AN225   Reinmuth
+BS    Sgr NB  N1917 07 17       18 26.8     -27 07           9.2   17   UC037   Innes, Cannon
+GI    Mon NA  N1918 02 04       07 26.7     -06 40      1    5.2   18   AN206   Wolf
+RZ    Leo UGWZ 1918 03 13       11 37.4     +01 49          10.5   17.5 AN209   Wolf
+V603  Aql NA  N1918 06 08       18 49.0     +00 35      3   -1.1   12.0 AN207   Bower et al.
+V1017 Sgr NR  N1919 03 11       18 32.1     -29 23      5    7.2   14.7 AN210   Woods
+V605  Aql NB? N1919 07 04       19 18.3     +01 48      4   10.4   22.5 AN211   Wolf
+V849  Oph NB  N1919 08 20       18 14.1     +11 37      4    7.2   17   AN210   Mackie
+HR    Lyr NA  N1919 12 06       18 53.5     +29 14      1    6.5   15.8 HB705   Mackie
+IM    Nor N:  N1920 07 07       15 39.4     -52 20      2    9.0   22.0 AN213   Woods
+V476  Cyg NA  N1920 08 20       19 58.5     +53 37      3    2.0   17.2 AN211   Denning
+KX    TrA ZANDN1921             16 44.7     -62 39                      HC224   Cannon
+V707  Sco NA  N1922 07 11       17 48.5     -36 38      3    9.6   20   HB773   Cannon
+GR    Sgr N   N1924 04 30       18 23.0     -25 34           7.5   16.5 HB851   Woods
+FL    Sgr NA: N1924 05 13       18 00.5     -34 36           8     20   HB847   Gill
+RR    Pic NB  N1925 05 25       06 35.6     -62 39           1.0   11.9 I0067   Watson
+DO    Aql NB  N1925 09 14       19 31.4     -06 26           8.7   16.5 AN225   Wolf
+KY    Sgr NA: N1926 06 14       18 01.3     -26 25           8     20   HB861   Woods
+FM    Sgr NA: N1926 07 16       18 17.3     -23 39           8     20.5 HB843   Cannon
+EY    Aql NA:  1926 09 08       19 34.8     +15 02          10.5   20   AN235   Albitskij
+X     Cir NB  N1926 17 21       14 42.7     -65 13      2    6.2   23   AN237   Becker
+EL    Aql NA  N1927 07 30       18 56.0     -03 19           6.4   20   I0161   Wolf
+V363  Sgr NA  N1927 09 30       19 11.3     -29 50           8.7   20   ZA001   Becker
+XX    Tau NA  N1927 11 18       05 19.4     +16 43           5.9   18.5 I0171   Wachmann, Schwassmann
+V352  Aql ZAND 1928             19 13.6     +02 18          13.3   18   VS002   Hoffmeister et al.
+KP    Sco NA: N1928 06 21       17 44.3     -35 43           9.4   21   HB870   Swope
+V1583 Sgr NA: N1928 07 24       18 15.4     -23 23           8.9   21   AJ060   Dishong, Hoffleit
+BC    Cas NA: N1929             23 51.4     +60 18          10.7   17.4 AN243   Belyavskij
+HV    Vir      1929 02 01       13 21.0     +01 53          11     19   AN243   Schneller
+V359  Cen N:   1930 04 20       11 58.2     -41 46          13.8   21.0 LC004   Opolski
+V441  Sgr Na  N1930 09 12       18 22.1     -25 29           8.0        HB890   Hoffleit
+TV    Crv UG   1931 03 23       12 20.4     -18 27          12     18   I4983   Tombaugh
+MT    Cen N:  N1931 05 09       11 44.0     -60 34           8.4   22   BN007   Uitterdijk
+V522  Sgr UG  N1931 08 16       18 48.0     -25 23          12.8   17   BN007   Ferwerda
+V1905 Sgr N:  N1932 06 14       18 33.7     -25 21           8.0   19   AJ063   Andersen
+V737  Sgr N:  N1933 06 30 V908  18 07.2     -28 46          10.3   19   AN264   O'Leary
+CG    CMa N?   1934 01 12       07 04.1     -23 46          13.7   15.9 LV012   Verlooy
+BD    Pav UG  N1934 09 07       18 43.2     -57 32          12.4   16.5 HA090   Boyd
+DQ    Her NA  N1934 12 12       18 07.5     +45 51           1.3   14.5 I0500   Prentice
+AP    Cru N:  N1935             12 31.4     -64 27           9.0   21.7 AN259   O'Connell
+V744  Sco N:   1935 02 08       17 53.3     -31 14          13.3   21   LA021   Plaut
+V1310 Sgr NB: N1935 05 14       18 35.0     -30 05          11.7  (15.5 LA020   Fokker
+V726  Sgr NA  N1936 04 30       18 19.5     -26 54          10.5   19   H0439   Mayall, Luyten
+V732  Sgr NA  N1936 06 10       17 56.1     -27 22           6.5  (16.0 PA049   Burwell
+CP    Lac NA  N1936 06 18       22 15.6     +55 37           2.1   16.6 I0594   Gomi, Nielsen, Loreta
+V729  Sco N?   1936 09 12       17 22.1     -32 06          14.0   22   LA021   Plaut
+V356  Aql NB  11936 09 18       19 17.2     +01 43      5    7.7   17.7 I0616   Tamm
+V990  Sgr NA: N1936 09 21       17 57.4     -28 19          11.1  (14.7 LA020   Plaut
+V630  Sgr NA  N1936 10 03       18 08.8     -34 20           4.5   19   I0622   Okabayasi
+V368  Aql NA  21936 10 07       19 26.5     +07 36      6    6.1   17.8 I0625   Tamm
+V745  Sco N:   1937 05 10       17 55.4     -33 14          11.2   21   LA021   Plaut
+V787  Sgr NA: N1937 05 20       18 00.0     -30 30           9.8   21   HB913   Swope
+V733  Sco N?   1937 06 29       17 39.8     -35 53          13.5   21   LA021   Plaut
+KY    Ara UG?  1937 07          18 08.5     -54 57          15.1   18   HA090   Boyd
+      Oph      1938       M14   17 37.6     -03 15          10     21   AJ069   Sawyer-Hogg, Wehlau
+11561 Sct N?   1938 08 03       18 56.6     -08 35          16.2   17.0 LA021   Harwood
+V404  Cyg NR  N1938 09 28       20 24.1     +33 52          11.0   20.5 BZ020   Wachmann
+FU    Ori FU  N1939 01 18       05 45.3     +09 04           9.6   16.0 I0738   Wachmann
+V794  Oph NB  N1939 07 15       17 38.8     -22 51          11.7   18   PA055   Burwell, Hoffleit
+BT    Mon NA  N1939 12 17       06 43.8     -02 01      2    5     15.5 I0806   Wachmann, Whipple
+V407  Cyg ZAND 1940             21 02.2     +45 47          13.3   17.0 VS001   Hoffmeister
+CI    Gem UG?  1940 01 03       06 29.9     +22 19          14.7   18.5 AN274   Hoffmeister
+CQ    Vel NA: N1940 04 19       08 58.9     -53 21           8.9   21   I1233   van Houten
+V553  Oph NA  N1940 08 03       17 43.0     -24 53          11.0   22   PA053   Burwell, Swope
+V697  Sco NA  N1941 03 09       17 51.3     -37 25           8     17   PA055   Mayall
+V909  Sgr NA  N1941 07 18       18 25.8     -35 01           6.8   20   PA051   Mayall
+V450  Cyg NB  N1942 09 08       20 58.8     +35 57           7.0   16.3 I0918   Zwicky
+CP    Pup NA  N1942 11 09       08 11.8     -35 21           0.5   15   I0925   Dawson, Finsler
+KT    Mon NA  N1942 13 02       06 25.3     +05 26           9.8  (21   AJ059   Vyssotsky
+V1148 Sgr N   N1943 08 03       18 09.1     -25 59           8.0  (16   AJ054   Mayall
+V500  Aql NA  N1943 09 05       19 52.4     +08 29           6.1   17.8 I0961   Hoffmeister
+V927  Sgr NA  N1944 04 22       18 07.7     -33 22           7.3   20   PA055   Mayall
+V696  Sco NA  N1944 05 05       17 53.2     -35 51           7.5   19.5 PA055   Mayall
+V1149 Sgr NB  N1945 02 16       18 18.5     -28 18           7.4   21   AJ054   Mayall
+V1431 Sgr N?  N1945 08 07       18 02.1     -30 06          17.2  (19.4 PZ010   Baade
+V528  Aql NA  N1945 08 26       19 19.4     +00 38           7.0   18.1 I1014   Bertaud, Tamm, Solov'ev
+V2506 Sgr ZANDN1946 04 11       18 11.1     -28 32          11     13   A1965   Welther
+V1150 Sgr NB  N1946 05 28       18 19.0     -24 06          12    (22   AJ054   Mayall
+V890  Aql mp  N1946 08 30 (258) 19 42.8     +01 25          11.3  (13.5 I1112   Rigollet
+V1151 Sgr NB  N1947 04 17       18 25.4     -20 12          10.5   20   AJ054   Mayall
+V928  Sgr NB  N1947 05 16       18 19.0     -28 06           8.5   20.5 I1092   Miller, Burwell
+CT    Ser N   N1948 04 09       15 45.6     +14 23           5     16.6 I1150   Bartaya
+V465  Cyg NB  N1948 06 02       19 52.6     +36 34           7.3   17.0 I1154   Whitney
+V365  Car NB   1948 07 02       11 03.3     -58 27          10.1   21.6 AS014   Henize
+V394  CrA N   N1949 03 23       18 00.5     -39 00           7.5   20   I1208   Erro
+V902  Sco NB  N1949 05 21       17 26.2     -39 04          11     20.0 PA073   Henize, Haro
+EU    Sct NA  N1949 08 05       18 56.2     -04 12           8.4   18   I1224   Bertaud
+V4074 Sgr ZAND 1950             18 16.1     -30 51           8.6   12.3 AP112   Merrill, Burwell
+V2110 Oph ZAND 1950             17 43.5     -22 45          12.0   20   AP112   Merill, Burwell
+DK    Lac NA  N1950 01 23       22 49.8     +53 17           5.0   15.5 I1254   Bertaud
+V719  Sco N   11950 07 20       17 45.7     -34 00           9.8   20.5 I1280   Zwicky
+V720  Sco N   21950 08 07       17 52.0     -35 24           7.5   21   I1283   Haro, Herzog, Solovyev, Markarian
+V721  Sco N   31950 09 03       17 42.4     -34 40           8    (18.0 I1288   Haro, Zwicky
+V630  Cas UG:  1950 11 14       23 49.0     +51 28          12.3   17.1 V0797   Whitney
+V1172 Sgr N   N1951 03 07       17 50.4     -20 41           9.0   18   I1306   Haro
+V841  Aql N   N1951 07 10       19 07.7     +10 31          11.5   17.5 I1319   Zwicky
+V2415 Sgr N   N1951 09 28       17 53.2     -29 35          13    (18   H1150   Zwicky
+V1175 Sgr N   11952 02 21       18 14.2     -31 07           7.0  (12   I1347   Haro
+V722  Sco NA  11952 03 10       17 48.6     -34 58           9.4  (13   I1349   Haro
+V1174 Sgr N   21952 03 29       18 01.6     -28 44          12.0  (18   I1353   Haro
+09663 Sco N    1952 04 18       17 47.2     -33 11          11     21   I1355   Haro
+FS    Sct NA: N1952 07 19       18 58.3     -05 24          10.1   18   I1367   Arend
+V723  Sco NA: 21952 08 10       17 50.1     -35 24           9.8   19   I1369   Solovyev
+V906  Oph NA  N1952 08 22       17 26.5     -21 53           8.4  (13   I1371   Iriarte
+V411  Car N   N1953 02 09       10 31.3     -59 58          14.5   19   V2502   Perek
+10158 Sgr N   N1953 02 10       18 05.2     -29 55          10.5        I1391   Haro
+RR    Cha NA: N1953 04 08       13 26.4     -82 20           7.1   19.3 I1671   Hoffmeister
+V2446 Sgr M    1953 08 05       17 59.4     -29 02          17.4  (19.3 BN003   Oosterhoff, Ponsen
+V908  Oph N   N1954 07 02       17 27.8     -27 45           7.5  (14   I1461   Blanco
+V1275 Sgr NA  11954 07 04       17 59.1     -36 18           7.0   18   I1459   Haro, Herraro
+09808 Sco N    1954 08 30       17 53.6     -30 46          13.8        I1471   Wild
+V1274 Sgr N   21954 08 30       17 48.9     -17 52          10.5  (13.0 I1471   Wild
+V1572 Sgr N   N1955 02 16       18 05.6     -31 38          11    (16   I1491   Haro
+      Lib UG   1955 04 20       15 10.1     -01 55          10          I5131   Debehogne
+RW    UMi NB  N1956             16 47.8     +77 02           6     21   V0018   Satyvaldiev
+V972  Oph NB  N1957 09 18       17 34.8     -28 11           8.0   17.0 H1405   Haro
+V427  Sct M?  N1958 09 17       18 42.9     -04 28          15     17   AC229   Apriamashvili
+V1195 Oph M:   1959 04 19       17 00.4     -20 53          16.3  (20.1 BN003   Plaut
+V1548 Oph N?   1959 06 27       17 11.4     -16 21          13.7  (20   BN003   Plaut
+V1235 Oph N:   1959 08 29       17 01.9     -20 21          17.0  (20.8 BN003   Plaut
+KR    Aur UGZ?N1960             06 15.8     +28 35          11.3   17.6 MV463   Popova
+V446  Her NA  N1960 03 07       18 57.4     +13 14           3.0   18.0 I1714   Hassel
+V1944 Sgr N   N1960 05 24       18 00.6     -27 17           7.5        AC222   Apriamashvili
+FV    Sct N   N1960 06 29       18 34.8     -12 56           7     21   I1761   Savel'eva
+DZ    Ser N   N1960 07 29       18 01.0     -10 34           7     21   H1526   Nassau, Stephenson
+V1012 Oph N   N1961 04 20       17 41.5     -23 23          13.8   22   I1758   Apriamashvili
+V366  Sct N   N1961 05 22       18 29.7     -12 19          15.4  (23   V0211   Pik-Sin-The
+AL    Com UGSSN1961 11 17       12 32.4     +14 20          13.0   20   I1782   Rosino
+V3890 Sgr ZANDN1962             18 30.8     -24 01           8.4   17.0 V0845   Dinerstein
+      Boo N?  N1962 12 03       14 43.3     +13 43          10.5   20   V1428   Gessner
+HZ    Pup NA  11963 01 18       08 03.3     -28 28           7.7   17   I1857   Hoffmeister
+V533  Her NA  N1963 02 06       18 14.4     +41 51           3.0   15.0 I1817   Dahlgren
+09828 Sgr N    1963 06 17       17 54.8     -28 41          13          I1834   Blanco
+WX    Cet UGWZN1963 09          01 17.0     -17 56          10.5   18   V0047   Strohmeier
+AS    Psc NR?  1963 09 14       01 28.2     +31 15          16.6   21.5 A1229   Richter
+HS    Pup NA: 21963 14 13       07 53.5     -31 39           8.0   20.5 V0059   Strohmeier
+V825  Sco N   N1964 05 19       17 49.9     -33 33           8     19   I1864   Przybylski
+QZ    Aur NA  N1964 11 04       05 28.7     +33 19           5.0   18.0 V1011   Sanduleak
+V916  Sco ZANDN1967             17 43.9     -36 03          14     17   V1376   Sanduleak, Stephenson, MacConnell
+V632  Her UG  N1967 06 29       18 19.7     +24 33          15.4   21   I2024   Pfau, Dorchner, Friedemann
+V655  CrA N   N1967 06 30       18 24.7     -36 59           8     17.6 V0368   Sanduleak
+V2024 Oph N   N1967 07 07       17 42.4     -24 59           9.5  (18   V0323   Stephenson
+HR    Del NB  N1967 07 08       20 42.4     +19 10           3.5   12.0 I2022   Alcock
+LV    Vul NA  11968 04 15       19 48.1     +27 11           5.2   16.9 I2066   Alcock
+V4027 Sgr N   N1968 05 17       18 02.5     -28 45           8.5   21   V1340   MacConnell
+V592  Her XND?N1968 06 30       16 31.0     +21 17          12.3   21.5 V0293   Richter
+LU    Vul NA  21968 10 14       19 45.6     +28 35           9.5  (21   I2106   Kohoutek
+V2109 Oph N   N1969 06 21       17 24.3     -24 37          10.8   18   V1340   MacConnell
+V2572 Sgr NA: N1969 07 08       18 31.6     -32 36           6.5   18   V0389   Bateson, Welch
+V351  Car M    1970             10 45.4     -72 04          12.5        V0765   Knigge
+FH    Ser NA  N1970 02 13       18 30.8     +02 37           4.5   16.2 I2212   Honda
+V1229 Aql NA  N1970 04 14       19 24.8     +04 15           6.7   19.4 I2233   Honda
+V1330 Cyg NA  N1970 06 08       20 52.8     +35 59           7.5   18.1 I2251   Stienon
+V3645 Sgr NB  N1970 07 29       18 35.8     -18 42           8     18   V0494   Arkhipova, Dokuchaeva
+V368  Sct NA  N1970 07 31       18 45.7     -08 33           6.9   19.0 I2269   Alcock
+      Car N    1971 02 18       10 39.8     -63 15          13     18   V1476   MacConnell et al.
+IV    Cep NA  N1971 07 10       22 04.6     +53 31           7.0   17.1 I2340   Kuwano
+LS    And NA:  1971 08 26       00 32.2     +41 59          11.7   20.5 AJ078   Herbst
+      Car N    1972 03 22       10 38.4     -63 09          13     18   V1476   MacConnell et al.
+V812  Cen N   N1973 04 23       13 13.9     -57 41           9     18   V1476   MacConnell et al.
+V3888 Sgr N   N1974 10 06       17 48.6     -18 46           6.5   16   I2707   Kuwano
+V400  Per NB  N1974 11 09       03 07.6     +47 07           7.8   20   I2716   Sanduleak
+KY    TrA XND N1974 11 12       15 28.3     -61 53          17.5   22   I2729   (Leicester)
+V1333 Aql XND  1975 06    X-1   19 11.3     +00 35          14.8   19.4 I2793
+V1301 Aql NA  N1975 06 06       19 17.9     +04 47          10.3   21   I2788   Wild
+V3964 Sgr NA  21975 06 08       17 49.7     -17 24           6    (17   I2997   Lundstrom, Stenholm
+V373  Sct NA  N1975 06 15       18 55.4     -07 43           7.1   18.5 I2791   Wild
+V3889 Sgr NA: 11975 07 13       17 58.4     -28 22           8.4   21   I2805   Kuwano
+V616  Mon XND N1975 08          06 22.8     -00 21          11.2   20.2 I2819   Boley, Wolfson
+V1500 Cyg NA  N1975 08 29       21 11.6     +48 09           2.2   21.5 I2826   Osada, Honda, et al.
+V2104 Oph N   N1976 09 23       18 03.4     +11 48           5.3   20.5 I2994   Kuwano
+NQ    Vul NA  N1976 10 21       19 29.3     +20 28           6.0   18.5 I2997   Alcock
+HS    Sge NA  N1977 01 07       19 39.3     +18 08           7.0   20.5 I3025   Hosty
+V4021 Sgr NA  N1977 03 27       18 38.2     -23 22           7.5   18   I3055   Kuwano
+QX    Nor XND  1977 08 24       16 12.7     -52 26          18.2  (20   I3101   Grindlay
+V2107 Oph XND N1977 08 31       17 08.3     -25 06          16.6   21.0 I3104   Longmore, Cannon, Murdin, Malin
+LW    Ser NA  N1978 03 05       17 51.9     -14 44           8.3   21   I3186   Honda
+V4049 Sgr N   N1978 03 08       18 20.7     -27 57          12     21   I3411   Stenholm, Lundstrom
+V3876 Sgr M   N1978 04 07       18 33.2     -20 06          11.6   14.2 I3209   Honda
+V1668 Cyg NA  N1978 09 10       21 42.6     +44 02           6.7   20.0 I3263   Morrison, Collins
+PU    Vul ZANDN1979 04 05       20 21.2     +21 35           9.0   16   I3344   Kuwano, Honda
+V822  Cen XND  1979 05 19 X-4   14 58.3     -31 40          12.8   19   I3362   Canizares, McClintock
+SS    LMi UG: N1980 04          10 34.1     +31 08          15.9  (21   V1972   Alksnis, Zacs
+V4065 Sgr N?  N1980 10 28       18 19.6     -24 44           9.0  (18   I3533   Honda
+V1760 Cyg M   N1980 11 29       21 43.0     +31 28          11.8  (15   I3546   Honda
+      Sct N?  N1981 01 18 not   18 46.9     -04 57           8    (22   I3566   Branchett
+V693  CrA NA  N1981 04 02       18 42.0     -37 31           7.0   23   I3590   Honda
+V1370 Aql N   N1982 01 27       19 23.3     +02 30           6     19.5 I3661   Honda
+V4077 Sgr NB  N1982 10 04       18 34.6     -26 26           8.0   22   I3733   Honda
+GQ    Mus NA  N1983 01 18       11 52.1     -67 13           7.2   22   I3764   Liller
+V4121 Sgr N   N1983 02 13       18 07.9     -28 50           9.5   21   I4119   Wakuda
+MU    Ser NA  N1983 02 22       17 55.8     -14 01           7.7  (21   I3777   Wakuda
+GW    Lib N:  N1983 08 10       15 20.0     -25 01           9     18.5 I3854   Gonzalez
+UW    Tri N:  N1983 09 11       02 45.2     +33 32          15    (21   I3869   Kurochkin
+V341  Nor N?  N1983 09 19       16 13.7     -53 20           9.4  (17   I3869   Liller
+PW    Vul NA  11984 07 27       19 26.1     +27 22           6.4   17   I3963   Wakuda
+V4092 Sgr N:  N1984 09 25       17 53.7     -29 03          10.5        I3995   Liller
+V1378 Aql N   N1984 12 02       19 16.6     +03 43          10     21   I4020   Honda
+QU    Vul NA  21984 12 18       20 26.8     +27 51           5.6   19   I4023   Collins
+V344  Nor M:   1985 01 26       15 40.5     -51 13          10.5  (16.0 I4030   Liller
+V345  Nor ZAND 1985 05 28       16 06.8     -52 05           9.0        I4075   Liller
+V960  Sco N   N1985 09 24       17 56.6     -31 49          10.5   20   I4118   Liller
+V840  Cen ZAND 1986 01 03       13 20.8     -55 51           7.5   14.5 I4180   Liller
+V1819 Cyg NB  N1986 08 04       19 54.7     +35 42           8.7   19   I4242   Wakuda
+      Sgr      1986 10 28       18 03.7     -28 00          10.4        I4482   McNaught
+V842  Cen N   N1986 11 22       14 35.9     -57 38           4.6   20.3 I4274   McNaught
+      Lac N?  N1986 11 22 glint 22 04.1     +48 28           8    (21   I4275   Honda
+OS    And N   N1986 12 05       23 12.1     +47 28           6.3   17.8 I4281   Suzuki
+V827  Her N   N1987 01 25       18 43.6     +15 18           7.5        I4307   M. Sugano; M. Honda
+BW    Cir XND N1987 02          13 58.2     -64 44          16.9        I4342   F. Makino et al. (x-ray)
+V4135 Sgr N   N1987 05 18       17 59.8     -32 16          10    (21   I4397   R. McNaught
+QV    Vul N   N1987 11 15       19 04.6     +21 47           7.3        I4488   K. Beckmann; P. Collins
+PQ    And N   N1988 03 21       02 29.5     +40 02          10.0        I4570   D. McAdam
+V2214 Oph      1988 04 10       17 12.0     -29 38           8.5  (17   I4581   M. Wakuda
+V977  Sco     N1989 08 17       17 51.9     -32 32           9.0   21   I4836   W. Liller
+V443  Sct     N1989 09 20       18 49.7     -06 12          10.5  (21   I4861   P. Wild
+      Vel XR   1990 02 22       08 32.7     -43 04                      I5122   R. Sunyaev et al. (x-ray)
+V4338 Sgr UG   1990 02 23       17 59.3     -29 10           8.0        I4974   W. Liller
+V344  Pav UG   1990 07 21       19 16.2     -62 36          14.5        I5073   M. Wischnjewsky
+VX    For UG   1990 10 27       03 26.8     -34 27          12.5        I5127   W. Liller
+GU    Mus XND N1991 01 12       11 26.4     -68 41          17          I5161   Lund, Brandt; Makino et al. (x-ray)
+V838  Her NA  N1991 03 24       18 46.5     +12 14           5.4        I5222   M. Sugano; G. Alcock
+V868  Cen N   N1991 04 02       13 50.2     -63 09           8.7        I5230   W. Liller
+V2264 Oph NA  11991 04 11       17 20.3     -26 46      1   10          I5238   P. Camilleri
+V2290 Oph NA  21991 04 11       17 43.1     -20 07           9.3        I5381   P. Camilleri
+V4160 Sgr NA  N1991 07 29       18 14.3     -32 12           8.5        I5313   P. Camilleri
+V444  Sct NA  N1991 08 30       18 47.1     -08 21          10.5        I5331   P. Camilleri
+V351  Pup NA  N1991 12 27       08 11.6     -35 07           6.4        I5422   P. Camilleri
+V4157 Sgr NA  11992 02 13       18 09.6     -25 52           7.0        I5451   W. Liller; P. Camilleri
+V1974 Cyg NA  N1992 02 19       20 30.5     +52 38           4.3        I5454   P. Collins
+V992  Sco NA  N1992 05 22       17 07.3     -43 15           8.2        I5526   P. Camilleri
+V4169 Sgr NA  21992 07 09       18 23.5     -28 22           8.5        I5561   W. Liller
+V4171 Sgr NA  31992 10 13       18 23.7     -22 59           9.0        I5634   P. Camilleri
+V2295 Oph NA  N1993 04 14       17 25.1     -23 12           9.5        I5766   P. Camilleri
+V1419 Aql NA  N1993 05 13       19 13.1     +01 34           7.6        I5791   W. Liller; M. Yamamoto
+V4327 Sgr NA  N1993 08 14       18 12.8     -29 29           7.9        I5862   M. Sugano; W. Liller
+HY    Lup N   N1993 09 19       14 31.8     -51 10           8.0        I5867   W. Liller
+V705  Cas NA  N1993 12 07       23 41.8     +57 31           6.5        I5902   K. Kanatsu
+V4332 Sgr     11994 02 24       18 50 36.69 -21 23 28.3      8.4        I5942   M. Yamamoto
+V4362 Sgr NB  21994 05 16       18 30.4     -17 12          10.8        I5993   Y. Sakurai
+V2313 Oph     N1994 06 01       17 35.8     -19 20           7          I6001   A. Tago; M. Yamamoto
+BY    Cir N   N1995 01 27       14 45.0     -63 54           7.2        I6130   W. Liller
+V1425 Aql NA  N1995 02 07       19 05.4     -01 42           8.1        I6133   K. Takamizawa
+V888  Cen NA  N1995 02 23       13 02.5     -60 12           7.2        I6139   W. Liller
+V723  Cas NB  N1995 08 24       01 05.1     +54 01           9.2        I6213   M. Yamamoto
+V4361 Sgr N   N1996 07 11       18 23.7     -18 07          10          I6443   Y. Sakurai
+CP    Cru NA: N1996 08 26       12 10.5     -61 45           9.2        I6463   W. Liller
+V1141 Sco     N1997 06 05       17 54.2     -30 03           8.5        I6675   W. Liller
+V4633 Sgr     N1998 03 22       18 21.7     -27 32           7.8        I6846   W. Liller
+V2487 Oph     N1998 06 15       17 32.0     -19 14           9.5        I6941   K. Takamizawa
+V1142 Sco     N1998 10 21       17 55.4     -31 02           6.9        I7034   W. Liller
+LZ    Mus     N1998 12 29       11 56.1     -65 34           8.5        I7078   W. Liller
+V4444 Sgr     N1999 04 25       18 07.6     -27 20           8.6        I7153   M. Yamamoto
+V382  Vel     N1999 05 22       10 44.8     -52 26           3.1        I7176   P. Williams; A. Gilmore
+V1493 Aql     N1999 07 13       19 07.7     +12 32           8.8        I7223   A. Tago
+DD    Cir     N1999 08 23       14 23.4     -69 09           7.7        I7242   W. Liller
+V1494 Aql     N1999 12 01       19 23.1     +04 57           6.0        I7323   A. Pereira
+V4642 Sgr     N2000 02 04       17 55 09.84 -19 46 01.0     10.5        I7362   Y. Sakurai
+V463  Sct      2000 03 05       18 34 03.16 -14 45 11.5     10.6        I7382   K. Haseda
+CI    Aql      2000 04 28       18 52 03.55 -01 28 38.9     10.0        I7409   K. Takamizawa; M. Yamamoto
+V445  Pup      2000 11 22.731   07 37 56.88 -25 56 58.9      8.7        I7552   K. Kanatsu
+V4643 Sgr     N2001 02 24       17 54 40.43 -26 14 15.8      7.7        I7589   W. Liller
+V1548 Aql     N2001 05 11       19 07 28.41 +11 44 45.8     10.9        I7627   M. Collins
+V1178 Sco      2001 05 13       17 57 06.98 -32 23 05.0     10.5        I7647   K. Haseda
+V2274 Cyg     N2001 07 13       20 07 17.94 +36 04 37.2     11.9        I7666   Y. Nakamura
+V2275 Cyg     N2001 08 18       21 03 02.00 +48 45 52.9      8.8        I7686   A. Tago; K. Hatayama
+V4739 Sgr     N2001 08 26       18 24 46.04 -30 00 41.1      7.6        I7692   A. Pereira
+V4740 Sgr     N2001 09 05       18 11 46.01 -30 30 50.9      7.0        I7706   A. Pereira; W. Liller
+V1039 Cen     N2001 10 01       13 55 41.27 -64 15 57.9      8.6        I7726   W. Liller
+IM    Nor      2002 01 03.3     15 39 26.61 -52 19 18.6      8.5        I7789   W. Liller
+V2540 Oph     N2002 01 24.8     17 37 34.60 -16 23 23.2      9.0        I7808   K. Haseda; Y. Nakamura
+V4741 Sgr     N2002 04 15.354   17 59 59.63 -30 53 20.5      9.2        I7878   W. Liller
+V4742 Sgr     N2002 09 15.110   18 02 21.86 -25 20 32.2      8.5        I7971   W. Liller
+V4743 Sgr     N2002 09 20.431   19 01 09.38 -22 00 05.9      5.0        I7975   K. Haseda
+V4744 Sgr      2002 10 25.44    17 47 21.72 -23 28 22.8      9.7        I8001   V. Tabur
+V4745 Sgr      2003 04 25.73    18 40 02.54 -33 26 55.1      8.9        I8123   N. Brown; M. Yamamoto
+V2573 Oph     N2003 07 10.598   17 19 14.09 -27 22 35.2     11.4        I8166   A. Takao; V. Tabur
+V475  Sct     N2003 08 28.58    18 49 37.62 -09 33 50.3      8.4        I8190   H. Nishimura
+V5113 Sgr     N2003 09 17.52    18 10 10.42 -27 45 35.2      9.2        I8204   N. Brown
+DE    Cir     N2003 10 09.004   15 17 52.48 -61 57 16.4      7.7        I8219   W. Liller
+V5114 Sgr     N2004 03 15.82    18 19 32.29 -28 35 35.7      9.4        I8306   H. Nishimura; W. Liller; Y. Nakamura
+V2574 Oph     N2004 04 14.80    17 38 45.49 -23 28 18.5     11.1        I8323   A. Takao; Y. Nakamura
+V1186 Sco     N2004 07 03.146   17 12 51.28 -30 56 37.6     12.0        I8369   G. Pojmanski
+V1187 Sco     N2004 08 03.583   17 29 18.81 -31 46 01.5      7.4        I8380   A. Takao
+V574  Pup     N2004 11 20.672   07 41 53.56 -27 06 38.3      7.6        I8443   A. Tago; Y. Sakurai
+V2361 Cyg     N2005 02 10.85    20 09 19.05 +39 48 52.9      9.7        I8483   H. Nishimura
+V382  Nor     N2005 03 13.309   16 19 44.74 -51 34 53.1      9.4        I8497   W. Liller
+V5115 Sgr     N2005 03 28.779   18 16 58.96 -25 56 38.9      8.7        I8500   H. Nishimura; Y. Sakurai
+V378  Ser     N2005 03 21.374   17 49 24.57 -12 59 59.2     11.8        I8505   G. Pojmanski
+V1663 Aql     N2005 06 09.240   19 05 12.50 +05 14 12.0     11.0        I8540   G. Pojmanski
+V5116 Sgr     N2005 07 04.049   18 17 50.77 -30 26 31.2      8.0        I8559   W. Liller
+V1188 Sco     N2005 07 25.284   17 44 21.59 -34 16 35.7      9.1        I8574   G. Pojmanski; H. Nishimura
+V1047 Cen     N2005 08 01.031   13 20 49.74 -62 37 50.5      8.5        I8595   W. Liller
+V476  Sct     N2005 09 30.522   18 32 04.75 -06 43 34.3     10.3        I8607   A. Takao; K. Haseda
+V477  Sct     N2005 10 11.026   18 38 42.93 -12 16 15.6     12.0        I8617   G. Pojmanski
+V2575 Oph     N2006 02 09.390   17 33 13.06 -24 21 07.1     12.1        I8671   G. Pojmanski
+V5117 Sgr     N2006 02 17.37    17 58 52.61 -36 47 36.2      9.0        I8673   W. Liller
+V2362 Cyg     N2006 04 02.807   21 11 32.34 +44 48 03.9     10.5        I8697   H. Nishimura
+V2576 Oph     N2006 04 06.565   17 15 33.00 -29 09 39.9     10.5        I8700   P. Williams
+V1065 Cen     N2007 01 23.354   11 43 10.33 -58 04 04.3      8.2        I8800   W. Liller
+V1280 Sco     N2007 02 04.9     16 57 41.20 -32 20 35.8      9.4        I8803   Y. Sakurai; Y. Nakamura
+V1281 Sco     N2007 02 19.8593  16 56 59.35 -35 21 50.2      9.3        I8810   Y. Nakamura; H. Nishimura
+V2467 Cyg     N2007 03 15.787   20 28 12.52 +41 48 36.5      7.4        I8821   A. Tago
+V2615 Oph     N2007 03 19.812   17 42 44.00 -23 40 35.1     10.2        I8824   H. Nishimura
+V5558 Sgr     N2007 04 14.777   18 10 18.27 -18 46 52.1     10.3        I8832   Y. Sakurai
+V390  Nor     N2007 06 15.086   16 32 11.51 -45 09 13.4      9.4        I8850   W. Liller
+V458  Vul     N2007 08 04.54    19 54 24.64 +20 52 51.7      9.5        I8861   H. Abe
+V597  Pup     N2007 08 14.21    08 16 18.01 -34 15 24.1      7.0        I8895   A. Pereira
+V598  Pup     N2007 08 08       07 05 42.51 -38 14 39.3     10.3        I8898   Read et al. (x-ray)
+V459  Vul     N2007 12 25.35    19 48 08.84 +21 15 26.8      8.7        I8907   Kaneda
+V2468 Cyg     N2008 01 07.801   19 58 33.39 +29 52 06.5      8.2        I8927   Kaneda
+NR    TrA     N2008 04 01.73    16 18 48.21 -60 27 48.9      9.2        I8931   Brown
+V2491 Cyg     N2008 04 10.728   19 43 01.96 +32 19 13.8      7.7        I8934   Nishiyama, Kabashima
+V5579 Sgr     N2008 04 18.784   18 05 58.88 -27 13 56.0      8.4        I8937   Nishiyama, Kabashima
+V2670 Oph     N2008 05 25.69    17 39 50.93 -23 50 00.9     10.3        I8947   Haseda; Nishiyama, Kabashima; Nishimura
+V2671 Oph     N2008 05 31.608   17 33 29.67 -27 01 16.4     11.3        I8950   Nishiyama, Kabashima
+V1309 Sco     N2008 09 02.4594  17 57 32.93 -30 43 10.1      9.5        I8972   Nishiyama, Kabashima
+V1721 Aql     N2008 09 22.5     19 06 28.58 +07 06 44.3     14.0        I8989   Itagaki
+QY    Mus     N2008 09 28.998   13 16 36.44 -67 36 47.8      8.6        I8990   Liller
+V679  Car     N2008 11 26.26    11 13 53.79 -61 13 48.2      7.6        I8999   Malek
+V5580 Sgr     N2008 11 29.040   18 22 01.50 -28 02 39.6      8.0        I9004   Liller
+V5582 Sgr     22009 02 23.947   17 45 05.40 -20 03 21.5     11.5        I9049   Sun, Gao
+V5581 Sgr     12009 04 21.681   17 44 08.48 -26 05 47.4     12.5        I9041   Nishiyama, Kabashima
+V1213 Cen     N2009 05 08.235   13 31 15.77 -63 57 38.6      8.5        I9043   Pojmanski, Szczygiel, Pilecki
+V5583 Sgr     32009 08 06.494   18 07 07.67 -33 46 33.9      7.7        I9061   Nishiyama, Kabashima; Pojmanski, Szczygiel, Pilecki
+V2672 Oph     N2009 08 16.515   17 38 19.68 -26 44 14.0     10.0        I9064   Itagaki
+V5584 Sgr     N2009 10 26.439   18 31 32.79 -16 19 07.5      9.3        I9089   Nishiyama, Kabashima
+V496  Sct     N2009 10 08.370   18 43 45.65 -07 36 41.5      8.8        I9093   Nishimura
+KT    Eri     N2009 11 25.545   04 47 54.21 -10 10 43.1      8.1        I9098   Itagaki
+V1722 Aql     N2009 12 14.40    19 14 09.73 +15 16 34.7     10.9        I9100   Nishiyama, Kabashima
+V2673 Oph     N2010 01 15.857   17 39 40.94 -21 39 47.9      8.8        I9111   Nishimura
+V5585 Sgr     N2010 01 20.72    18 07 26.95 -29 00 43.6      8.5        I9112   Seach
+V2674 Oph     N2010 02 18.845   17 26 32.19 -28 49 36.3      9.4        I9119   Nishimura
+V1310 Sco     N2010 02 20.857   17 06 07.53 -37 14 27.4     10.5        I9120   Nishiyama, Kabashima
+V5586 Sgr     N2010 04 23.782   17 53 02.99 -28 12 19.4     11.2        I9140   Nishiyama, Kabashima
+V1311 Sco     N2010 04 25.788   16 55 13.16 -38 03 46.9      8.6        I9142   Nishiyama, Kabashima
+V1723 Aql     N2010 09 11.485   18 47 38.38 -03 47 14.1     12.4        I9167   Nishiyama, Kabashima
