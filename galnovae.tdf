@@ -1,0 +1,44 @@
+# Modified 2015 Apr 3: the 'lesser known ID' field is now six bytes larger,
+# pushing the discover(s) and references over by that amount.
+file !:\variable\galnovae.txt
+title Galactic Novae
+RA H  45   2
+RA M  48   2
+RA S  51   5
+de d  60   3
+de m  64   2
+de s  67   4
+text   1  12
+~b  1  12 %s\n
+~b 32  13 %s\n
+~r 45  13 ^RA^: %R\n
+~r 60  13 ^declination^: %D\n\n
+~b 75   7 Discovery Mag :  %s\n
+~b 84   7 Max mag :  %s\n
+~b 93   7 Min mag :  %s\n
+~c102   6 t3 :  %s\n
+~r102   6 Days to decline by 3 magnitudes (t3) : %s\n
+~b111   8 Class : %s\n
+~r119  22 \nLesser known ID : %s\n
+~r141  41 \nDiscoverer(s) : %s\n
+~r182  63 IAUC (International Astronomical Union Circulars) and other references:\n%s\n
+~r245  63 %s\n
+~r308  63 %s\n
+~r371  63 %s\n
+~r434  63 %s\n
+~r497  63 %s\n
+~r 15  16 Outburst time :  %s\n
+~r 15  22 \n   Data based on Duerbeck's 1987 catalogue,  with data for more\n
+~r 15  22 recent novae from namelists 70-current, ^GCVS^,  some recent IAU\n
+~r 15  22 Circulars,  assembled (and .TDF supplied) by John Greaves,  with\n
+~r 15  22 updates by Bill Gray from CBETs,  IAUCs,  and other sources.\n
+
+~r 15  22 2017 Feb 26 version.\n
+epoch 2000
+type sC8000ff;m13,13;l-10,15;l3,-13;l13,13;
+goto spaces
+goto case
+label spaces
+field 0.00 500.00
+shown 1
+end
