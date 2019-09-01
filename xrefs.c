@@ -2,7 +2,9 @@
 #include <string.h>
 
 /* Small bit of code to extract cross-references from 'iauc8000.txt',
-putting them in the format used in 'galnovae.txt'.  */
+putting them in the format used in 'galnovae.txt'.   The original
+file is at http://www.cbat.eps.harvard.edu/indexto_iauc8000.html .
+A copy is provided in case the above link goes stale. */
 
 int main( const int argc, const char **argv)
 {
