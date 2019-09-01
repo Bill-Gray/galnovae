@@ -1,0 +1,257 @@
+Results of a quick comparison of the first few lines of the AAVSO
+list of novae with that compiled by John Greaves and me,  plus some
+later notes.  At the bottom of this file is a version history.
+
+N Cam 1999 : lightcurve data are at
+    https://skydot.lanl.gov/nsvs/star.php?num=1037109&mask=15636 <https://skydot.lanl.gov/nsvs/star.php?num=1037109&mask=15636
+    Also see Greaves, J., The Astronomer Magazine, Volume 43, Number 509,
+    p.133 (if you can find it;  appears not to be on line).
+
+V529 Ori = N Ori 1678 according to our data, 1667 according to AAVSO.
+    JG notes its "alternative designation" as "N Ori 1667 (!)".  IAU
+    list gives the date as 1678 Mar 28.
+
+WY Sge = N Sge 1793, found by d'Agelet, mag 6, according to our data;
+    1793, d'Agilet (D'Agelet?), 5.4 according to AAVSO;  1783 according to
+    IAU list.  However,  I've found various sources stating that d'Agelet
+    died in 1788;  see,  for example,
+    http://www.archive.org/stream/memoirsofnationa01nati/memoirsofnationa01nati_djvu.txt
+    which describes d'Agelet taking part in an ill-fated French scientific
+    expedition around the world in 1785;  also,
+    http://articles.adsabs.harvard.edu//full/1951ApJ...113..320W/0000321.000.html
+    gives positions and magnitudes observed by d'Agelet on 26, 27,  and 29
+    July,  1783.  So I'm switching our file over to read 1783 as well.
+
+T Boo = N Boo 1860:  GCVS puts it at RA 14 14 01.86, dec +19 04 03.5
+    AAVSO at                      RA 14 14 05.7,  dec +19 04 02.
+    I think GCVS is right here.  There is a faint star at that position
+    in DSS and B1.0 (with B1=17.75, R1=16.25, B2=19.52, R2=20.73,
+    I=17.27) and no star at the AAVSO location.
+
+Removed this line on 2014 Feb 22 :
+
+N Lac 1986    1986 11 22 glint N Lac 1986   22 04 06       +48 28                   8      <21                N?                      Honda                                     4275  4276
+
+   ...because IAUC 4276 makes it likely it's not a "real" nova.  Possibly
+a transient object.
+
+N Per 1887 = 1887 V Per:  we put it at mag 9.2,  AAVSO at mag 4.0
+
+Recurrent novae,  as listed by Bradley Schaefer in
+http://adsabs.harvard.edu/abs/2010ApJS..187..275S
+(plus some not-comprehensive updates mentioning some events
+since this was written).
+
+T Pyx: 1890, 1902, 1920, 1944, 1966 Dec 10, 2011 Apr 14
+IM Nor: 1920 Jul 7, 2002 Jan 3
+CI Aql: 1917 Jun 25, 1941, 2000 Apr 28
+V2487 Oph: 1900, 1998
+U Sco: 1863, 1906, 1917, 1936, 1945, 1969, 1979, 1987, 1999
+V394 CrA: 1949, 1987
+T CrB: 1866, 1946
+RS Oph: 1898, 1907, 1933, 1945, 1958, 1967, 1985, 2006
+V745 Sco: 1937, 1989 Aug 1.55, 2014 Feb 6.694
+V3890 Sgr: 1962, 1990, 2019 Aug 27
+
+RR Tel is listed as an 1898 event in 'nova_list.htm' (at
+   http://www.cfa.harvard.edu/iau/nova_list.html ),  and its discovery
+   by W. Fleming matches this.  In our file,  we had it as (1948).  Maybe
+   that's a re-explosion?
+
+   Eight objects are in "our" list that do not appear in 'novalist.htm' at all:
+
+              1980             UZ Tri       01 38 20       +33 32         14.2 p            21.0:p      ?     N?
+N Cru 2003    2003             DZ Cru       12 23 16.2     -60 22 34      11.9 R    9.2 R  <21   r            N                       V. Tabur
+N Cam 1999    1999                          13 57 30.22    +81 27 18.8    12.3 r           <22   r            NA                      J. Greaves
+N Cen 2008    2008             V1212 Cen    14 35 02.54    -64 06 20.0    10.0 V    8.4 V   22:  r            NA:                     G. Pojmanski                             a 123
+N Sco 1937    1937             V734 Sco     17 45 01.53    -35 37 55.9    14.7 p            20   j      ?     M:/N:   Plaut V110      L. Plaut
+N Aql 1985    1985             V1680 Aql    19 02 14.50    +13 03 03.2     9.7 v           <20   j      66    NA                      S. Antipin
+N Vul 1988    1988             QZ Vul       20 02 50       +25 14 10      18.5 B                              XND                     F. Makino, GINGA
+N Cep 2001    2001             V709 Cep     22 58 09.12    +66 21 12.4    12.7 C           <21   j     >52    NC      MisV1181        J. Greaves, N. Ohkura, S. Yoshida
+
+V407 Cyg re-erupted 2010 Mar 10.
+
+   IAU list shows N Cyg 2008 = V2468 Cyg as discovered on 2008 01 07.801,  but
+IAU Circular 8927 shows it as discovered in March.
+
+   N Aql 2015 = V1831 Aql discovered by Koichi Itagaki on 2015 10 05.548 at
+unfiltered mag 12.4 (the way I listed it) and by ASAS-SN at mag 15.2V on
+2015 oct 1.29,  reported by B. J. Shappee et. al.  Take your pick.
+
+Version history:
+(2004 Nov 22 version: added N Pup 2004)
+(2005 Mar 30: added V5115 Sgr = N Sgr 2005, V382 Nor = N Nor 2005)
+(2005 Apr 4: updated mags for N Sgr 2005, added poss. N Ser 2005)
+(2005 Jul 13: added N Sgr 2005/2, N Aql 2005)
+(2005 Jul 28:  added N Sco 2005 = 2005 V1188 Sco)
+(2005 Sep 5: added N Cen 2005 = V1047 Cen)
+(2005 Oct 1: added N Sct 2005 = V0476 Sct)
+(2005 Oct 11: corrected N Sct 2005 to be 'N',  not 'N:')
+(2005 Nov 28: added N Sct 2005/2,  revised N Sct 2005/1; corrected disc/max mags for N Sco 2005)
+(2006 May 16: BJG added N Cyg 2006, N Oph 2006/1 and 2, N Cyg 2006,  IAUC refs for 2003 to date)
+(2007 Jan 28: added N Cam 1999, N Cen 2007)
+(2007 Feb 18: added N Sco 2007)
+(2007 Feb 21: added N Sco 2007/2,  added '/1' to N Sco 2007;
+  BJG added IAUC refs for 1999 to 2002, moved refs out to allow long discoverers)
+(2007 Mar 20: added N Cyg 2007)
+(2007 Mar 21: added N Oph 2007,  noted that N Aql 1985 = V1680 Aql)
+(2007 Apr 26: added N Sgr 2007 = V5558 Sgr)
+(2007 Jun 12: BJG added IAUC xrefs up to IAUC 8848)
+(2007 Jun 22: BJG added N Nor 2007 = V390 Nor; added refs to IAUCs 8849, 8850)
+(2007 Aug 11: BJG added N Vul 2007, IAUC xrefs up to IAUC 8862)
+(2007 Aug 25: BJG N Vul 2007 = V458 Vul, xreffed IAUC 8863)
+(2007 Nov 4: BJG added IAUC xrefs up to 8888)
+(2007 Nov 15: added N Pup 2007 = V597 Pup, from J Greaves post to Guide user list)
+(2007 Nov 20: added N Pup 2007/2 = V598 Pup from JG post to user list)
+(2007 Dec 29: JG added N Vul 2007/2, many corrections;  BJG added some xrefs)
+(2008 Mar 10: JG added N Cyg 2008/1 = V2468 Cyg)
+(2008 Apr 16: BJG added basics for N Cyg 2008/2 = V2491 Cyg; NEEDS FINISHING)
+(2008 Apr 29: BJG added basics for N Sgr 2008 & N TrA 2008; NEEDS FINISHING;
+     N TrA has only approx coords; added some refs for many recent novae)
+(2008 Apr 30: used JG data to replace everything except references for all 2008 novae)
+(2008 May 27: BJG added basics for N Oph 2008; NEEDS FINISHING)
+(2008 May 31: BJG added V2670 xref for N Oph 2008)
+(2008 Jun 2: BJG added VX For, V445 Pup, TV Crv, V1039 Cen, DE Cir, V1548 Oph,
+   V1178 Sco, V4338 Sgr, V344 Pav, V890 Aql,  NSV 12329,  years for KR Aur,
+   V351 Car, QX Nor, KX TrA, RT Ser, V916 Sco,  RS Oph,  VY Aqr, V1333 Aql,
+   corrected NSV ID for N Sgr 1953 and year for RR Tel (see 'galnovae.err');
+   added many xrefs,  all this from IAU 'nova_list.htm')
+(2008 Jun 7: added V2671 Oph = N Oph 2008/2)
+(2008 Jun 10: added DZ Cru = N Cru 2003 from JG list)
+(2008 Jun 21: added IAUC xrefs to 8956)
+(2008 Sep 15: added N Sco 2008 = V1309 Sco)
+(2008 Oct 4: added N Aql 2008 = V1721 Aql)
+(2008 Oct 21:  added N Mus 2008 = Qy Mus,  IAUC refs to 8997)
+(2008 Dec 5:  V679 posn & some xrefs added;  not much data for it yet)
+(2008 Dec 16:  added N Sgr 2008/2 = V5580 Sgr)
+(2009 Jan 5:  from JG list,  added N Cen 2008)
+(2009 May 8:  added N Sgr 2009)
+(2010 Jan 29:  added GCVS desig V5581 Sgr for N Sgr 2009 #1,  plus IAUC
+   references for that star.)
+(2010 Jan 20:  added data for V496 Sct = N Sct 2009 (9093), V5584 Sgr =
+   N Sgr 2009 #4 (9089), V2672 Oph = N Oph 2009 (9064),V5583 Sgr =
+   N Sgr 2009 #3 (9061),  all directly from IAU list)
+(2010 ??? ??:  added V2673 Oph = N Oph 2010/1, KT Eri = N Eri 2009,
+   V5585 Sgr = N Sgr 2010/1)
+(2010 Sep 16:  added V2674 Oph = N Oph 2010/2, V1310 Sco = N Sco 2010/1,
+   V5586 Sgr = N Sgr 2010/2,  and V1311 Sco = N Sco 2010/2;  note that
+   N Aql 2010 = V1723 Aql on IAUC 9168,  ref also on 9167)
+(2011 Feb 28:  added N Aql 2010 = V1723 and N Sgr 2011 = V5587 Sgr)
+(2011 Sep 12:  added N Sco 2011/1 = V1312 Sco and N Sgr 2011/2 = V5588 Sgr;
+   corrected WY Sge year from 1793 to 1783;  see 'galnovae.err')
+(2011 Sep 20:  added V1313 Sco = N Sco 2011/2 and PR Lup = N Lup 2011)
+(2012 Mar 20:  added V834 Car = N Car 2012 (IAUC 9251)).
+(2012 Mar 27:  added V965 Per = N Per 2011 (IAUC 9247)).
+(2012 May 2:  added N Sgr 2012, N Oph 2012, N Cen 2012,  from CBETs 3089,
+   3081, 3073, 3072;  added some new IAUC and CBET refs for GK Per, V407 Cyg,
+   U Sco)
+(2012 Jun 26:  added N Sco 2012 from CBET 3136)
+(2012 Sep 28:  added N Mon 2012, N Sgr 2012 No 5, N Sgr 2012 No 3,
+   N Oph 2012/2)
+(2013 Sep 6:  added GCVS desigs and some x-refs for most 2012 novae,
+   added V339 Del = N Del 2013, N Sco 2013, V809 Cep = N Cep 2013;
+   added columns for month/day and filled them for 2010-2013 novae,
+   and eliminated duplicate blank columns in RA and dec.  New data
+   came from http://asd.gsfc.nasa.gov/Koji.Mukai/novae/novae.html,
+   since the IAU list hasn't been updated since 2010.
+      Also added some month/date data from the IAU list for 2005
+      to 2010 objects.  I found V1213 Cen in the IAU list,  but
+      not in this one;  and found V1212 Cen in this list,  but not
+      the IAU one.  Dunno why... I've added V1213 to this list.)
+(2013 Sep 9: added N Lib 1955, N Boo 1962, N Lac 1986,  and N Vel 1990
+   from IAU list.  The file now contains all objects from the IAU list,
+   plus a few not found in that list.)
+(2013 Sep 20:  added xrefs from IAUC 9260 to V1368 Cen = N Cen 2012;
+   V2677 Oph = N Oph 2012/2; V809 Cep = N Cep 2013; V1533 Sco = N Sco 2013.)
+(2013 Nov 10:  added N Aql 2013 = V2830 Aql.)
+(2013 Nov 29:  corrected above '2830 Aql' to '1830 Aql';  added some of
+   V556 Ser = N Ser 2013,  but need to fill in more data)
+(2013 Dec 22:  updated N Cen, Aql, Ser from Koji Mukai and AAVSO data.  IM
+   Nor appears twice in the IAU list,  once for 1920 and once for 2002.  I
+   corrected references by hand.  The position given in the IAU list for 2002,
+   15 39 26.61 -52 19 18.6,  is a few arcseconds away from "our" position.)
+(2014 Feb 15:  added N Sgr 2014)
+(2014 Feb 22:  added lots of IAUC references.  Removed N Lac 1986,  due to
+   comments in IAUC 4276;  see deleted entry in 'galnovae.err'.)
+(2014 Mar 11:  added N Cep 2014)
+(2014 Apr 10:  added N Cyg 2014 and N Sco 2014)
+2014 Apr 16:  added The Astronomer's Telegram refs back to 5525
+2014 Oct 1: added IAUC xref and GCVS identifier to N Cyg 2014 = V2659 Cyg
+2015 Mar 11:  added Novae Sco & Sgr 2015
+2015 Mar 18:  added N Sgr 2015/2
+2015 Apr 3:  added PNV and TCP references,  causing the 'obscure XID' field
+   to become wider.  Added N Oph 2015.  Separated comments from the actual
+   data file.  Switched order to show the most recent novae first.
+2015 Jul 29:  added new GCVS desigs and some variable types for 13 novae
+   for 2013-2015 from http://www.astronet.ru/db/varstars/msg/1338756 ,
+   "Novae and Nova-like Stars in the 81th Name-list of Variable Stars:
+   Official Announcement of GCVS Names."
+2015 Aug 2:  added references for IAUCs 9273-9275,  brought ATel refs up
+   to date.
+2015 Sep 5:  brought ATels up to 7986
+2015 Sep 30:  added N Sgr 2015/3 = V5669 Sgr,  brought ATels up to 8110.
+2015 Oct 10:  added N Aql 2015 = V1831 Aql,  brought ATels up to 8142
+2015 Oct 16:  added N Oph 2015/2,  brought ATels up to 8177
+2015 Oct 29:  added V2949 Oph desig for N Oph 2015/2,  brought ATels up to 8225
+2015 Nov 06:  added N Sgr 2015/4,  brought ATels up to 8250
+2015 Nov 30:  brought ATels up to 8344
+2016 Mar 19:  added N Oph 2016 = V3661 Oph
+2016 Jun 20:  added N Sco 2016,  brought ATels up to 9187
+2016 Aug 13:  added N Sgr 2016 = TCP J18010780-2631434.  Note that AAVSO
+   Alert Notice 547 refers to this as 'N Sgr 2016 No. 2'.  They reach that
+   conclusion by considering OGLE-2016-NOVA-02,  located at RA=17 49 57.33,
+   dec=-29 15' 37.9",  to be Nova Sgr 2016 No. 1.  Dunno if I agree with them
+   on that point,  so at least for the nonce,  I don't have a "No. 2" for this.
+   CBAT labelled it "Nova in Sagittarius",  possibly as a way of saying "we
+   haven't decided whether it's the first or second of the year either."
+   There's a reported spectrum that says OGLE-2016-NOVA-02 is really a
+   classical nova (ATel 9250),  but no confirmation of that.
+2016 Sep 16:  added N Sco 2016/2 = PNV J17225112-3158349.
+2016 Oct 02:  added N Lup 2016,  ATel xrefs to 9583
+2016 Dec 28:  ATel xrefs to 9906 (no new ones)
+2017 Feb 6:  Koji Mukai sorted out,  using the text from IAUC 9284,  the
+   mess of designations for 2016 novae in Sagittarius
+   (https://asd.gsfc.nasa.gov/Koji.Mukai/novae/novae.html).  However,  he
+   points out that it's still a bit muddled,  and recommends not using the
+   Nova Sgr 2016 No. x designations;  use the (much less ambiguous) variable
+   designations or discovery names.  In rough agreeement with this,  I've
+   added a ? to the 2016 Sagittarius novae designations.
+2017 Feb 26:  added N Sco 2017 = V1657 Sco;  expanded cross-refs to allow
+   for five-digit IAUC and Astronomer's Telegrams (this object referenced
+   AT 10071,  which wouldn't have fitted).  Adjusted the .idf and .tdf
+   files to reflect that change.
+2017 Apr 21:  N Sgr 2016/4 = PNV J18205200-2822100 is now a.k.a. V5856 Sgr.
+   Added ref to IAUC 9286.
+2017 May 03: added a few references,  including ATels up to 10345
+2017 May 15: added TCP J17394608-2457555 = N Oph 2017
+2017 May 22:  added ASASSN-17gk,  ATel xrefs to 10412
+2017 Jul 2: added ASASSN-17hx = ASASSN-17ib,  ATel xrefs to 10552
+2017 Aug 8: ATel xrefs to 10625
+2017 Sep 29:  added various object,  AAVSO Alerts to 598 (special alerts
+   have been discontinued),  ATels to 10801
+2017 Nov 18:  added N Oph 2017/2,  brought ATel and Alerts up to date
+2017 Jan 26:  added first three novae of 2018
+2017 Mar 23:  added N Car 2018.  Four other 2018 novae were added previously
+   without being noted here.
+2017 Mar 27:  added N CMa 2018.
+2017 Apr 21:  added new Sagittarius nova (is 'new nova' redundant?) and many
+   new variable star designations and nova classes from
+2018 May 2:  added V392 Per,  some references
+
+   http://www.astronet.ru/db/varstars/msg/1395385
+
+2018 Jun 6:  added N Lup 2018
+2019 Jan 21:  added AAVSO Alert Notices to 658,  Astronomer's Telegrams to 12414
+2019 Jan 31:  added GCVS names,  nova types,  max/min mags from Peremennye
+Zvezdy 38, No. 5, 2018,  for fourteen galactic novae discovered in 2018 :
+
+http://www.astronet.ru/db/varstars/msg/1452269
+
+They're marked with reference PZ38/5.
+
+2019 May 13:  John Greaves supplied a reference (IAUC 8014) for "N Cep 2001",
+   and pointed out that it and N Cam 1999 are not officially sanctioned
+   designations.  I added a question mark to both desigs,  and noted that
+   N Cam 1999 = NSVS 1037109.
+2019 May 29 : added N Sco 2019
+2019 Aug 18 : added N Ori 2019 = V2860 Ori
