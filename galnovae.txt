@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+  Vul         2019 08 18                    19 52 08.25    +27 42 20.88            16.3 g                             AT 2019owg            Gaia19dum                                T13068 T13070 T13074
 N Ori 2019    2019 08 07.7984  V2860 Ori    06 09 57.453   +12 12 25.15    9.4 U                                      PNV J06095740+1212255 S. Fujikawa                              C 4659 T13027 T13029 A  676
 N Sco 2019    2019 05 13.34                 17 07 34.18    -36 08 22.8             13.0                               AT 2019fez            ASASSN-19mo                              T12795 T12809 T12817
 N Nor 2018    2018 10 13.414   V556 Nor     16 14 32.91    -53 30 15.2    10.16    11.0V  <20                 NA      PNV J16143400-5330050 R. Kaufman                               C 4568 T12142 A  653 PZ38/5
@@ -287,7 +288,7 @@ N Sgr 1963    1963 06 17       NSV09828 Sgr 17 54 43       -28 41 41      13    
 N Her 1963    1963 02 06       V533 Her     18 14 20.36    +41 51 21.3     3.0 p    3.0 p   15.0 p      44    NA                            E. Dahlgren                                1817
 N Pup 1963/1  1963 01 18       HZ Pup       08 03 22.83    -28 28 28.9     7.7 p    7.7 p   17   p      70    NA                            C. Hoffmeister                             1857
 N Boo 1962    1962 12 03       N Boo 1962   14 43 18       +13 43                  10.5     20                N?                            Gessner                                  V 1428
-N Sgr 1962    1962             V3890 Sgr    18 30 42.93    -24 00 58.4     8.4 p    6   p   17.0 p      ?     N/ZAND                        H. Dinerstein                            V 0845   5002   5004   5006   5007   5010   5015   5047 T13047 T13050 T13059 T13060 A  677
+N Sgr 1962    1962             V3890 Sgr    18 30 42.93    -24 00 58.4     8.4 p    6   p   17.0 p      ?     N/ZAND                        H. Dinerstein                            V 0845   5002   5004   5006   5007   5010   5015   5047 C 4660 T13047 T13050 T13059 T13060 T13062 A  677
 N Com 1961    1961 11 17       AL Com       12 32 25.85    +14 20 42.7    13.0 p   13.0 p   20.0 p      30    UGSS    Rosino's obj.         L. Rosino                                  7629
 N Sct 1961    1961 05 22       V366 Sct     18 29 42.8     -12 18 54      15.4             <23   j      ?     N                             P. S. The                                V 0211
 N Oph 1961    1961 04 20       V1012 Oph    17 41 34.42    -23 23 33.1    13.8 p            22   j      ?     N                             S. P. Apriamashvili                        1758
