@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Sco 2019/2  2019 09 15.412   V1707 Sco    17 37 09.539   -35 10 23.26   11.5 U                                      PNV J17370958-3510211 K. Itagaki                               C 4667 T13112 A  679
   Vul         2019 08 18                    19 52 08.25    +27 42 20.88            16.3 g                             AT 2019owg            Gaia19dum                                T13068 T13070 T13074
 N Ori 2019    2019 08 07.7984  V2860 Ori    06 09 57.453   +12 12 25.15    9.4 U                                      PNV J06095740+1212255 S. Fujikawa                              C 4659 T13027 T13029 A  676
 N Sco 2019    2019 05 13.34                 17 07 34.18    -36 08 22.8             13.0                               AT 2019fez            ASASSN-19mo                              T12795 T12809 T12817
