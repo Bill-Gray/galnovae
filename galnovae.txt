@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Ser 2020    2020 02 22.8389  V670 Ser     18 10 42.19    -15 34 18.4    12.1 U                                      TCP J18104219-1534184 H. Nishimura                             C 4726 T13517 T13519 A  701
 N Sgr 2020    2020 01 30.8568  V6566 Sgr    17 56 14.04    -20 42 58.2    11.5     11.03                              PNV J17561375-2042546 M. Yamamoto, Y. Sakurai                  C 4720 T13449 A  697
 N Sct 2019    2019 10 29.0578  V659 Sct     18 39 59.70    -10 25 41.5     8.3                                        TCP J18395972-1025415 K. Nishiyama, H. Nishimura, ASAS-SN      T13241 C 4690 T13245 T13252 A  683
 N Cyg 2019    2019 09 17.25    V2891 Cyg    21 09 25.515   +48 10 51.90            10.6 J                             AT2019qwf             PGIR19brv                                T13130 C 4694 T13149 T13258 T13283
