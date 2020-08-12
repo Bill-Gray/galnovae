@@ -1,7 +1,8 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Aql 2020/2  2020 07 13.26    AT 2020qpq   19 14 26.27    +14 44 40.1    13.35J                                      PGIR20eig             Palomar Gattini-IR Collaboration (PGIR)  A  713 T13914
   Cas         2020 07 27.9302               00 11 42.97    +66 11 19.03   12.9     12.66                              TCP J00114297+6611190 S. Korotkiy, K. Sokolovsky               T13903 T13904 T13905
-N Sgr 2020/3  2020 07 16.51939              17 58 08.48    -30 05 37.6     9.9      9.9                               PNV J17580848-3005376 S. Fujikawa                              C 4813 T13872 T13877 T13894 A  712
-N Ret 2020    2020 07 15.590                03 58 29.55    -54 46 41.2     5        3.7                               MGAB-V207             R. McNaught                              C 4811 C 4812 T13867 T13868 T13874 A  711
+N Sgr 2020/3  2020 07 16.51939 V6568 Sgr    17 58 08.48    -30 05 37.6     9.9      9.9                               PNV J17580848-3005376 S. Fujikawa                              C 4813 C 4827 T13872 T13877 T13894 A  712
+N Ret 2020    2020 07 15.590   YZ Ret       03 58 29.55    -54 46 41.2     5        3.7                               MGAB-V207             R. McNaught                              C 4811 C 4826 C 4812 T13867 T13868 T13874 A  711
 N Sgr 2020/2  2020 06 02.26                 18 22 45.33    -19 36 02.3    11.16J                                      PGIR20dsv             ASASSN-20ga                              T13790 A  706 T13801 T13804 T13807
 N Aql 2020?   2020 05 12       PGIR20duo    18 43 53.33    +00 03 49.4    15.6 r                                      AT 2020kvq            MASTER OTJ184353.33+000350.9             T13817 T13822
 N Ser 2020    2020 02 22.8389  V670 Ser     18 10 42.29    -15 34 18.5    12.1 U                                      TCP J18104219-1534184 H. Nishimura                             C 4726 T13517 T13519 T13535 A  701
