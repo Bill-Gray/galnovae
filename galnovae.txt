@@ -1,6 +1,6 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
 N Aql 2020/2  2020 07 13.26    AT 2020qpq   19 14 26.27    +14 44 40.1    13.35J                                      PGIR20eig             Palomar Gattini-IR Collaboration (PGIR)  A  713 T13914
-  Cas         2020 07 27.9302               00 11 42.97    +66 11 19.03   12.9     12.66                              TCP J00114297+6611190 S. Korotkiy, K. Sokolovsky               T13903 T13904 T13905 T13919 T13939 T13940
+N Cas 2020    2020 07 27.9302  V1391 Cas    00 11 42.96    +66 11 20.83   12.9     12.66                              TCP J00114297+6611190 S. Korotkiy, K. Sokolovsky               C 4843 A  715 T13903 T13904 T13905 T13919 T13939 T13940 T13941 T13967
 N Sgr 2020/3  2020 07 16.51939 V6568 Sgr    17 58 08.48    -30 05 37.6     9.9      9.9                               PNV J17580848-3005376 S. Fujikawa                              C 4813 C 4827 T13872 T13877 T13894 A  712
 N Ret 2020    2020 07 15.590   YZ Ret       03 58 29.55    -54 46 41.2     5        3.7                               MGAB-V207             R. McNaught                              C 4811 C 4826 C 4812 T13867 T13868 T13874 A  711
 N Sgr 2020/2  2020 06 02.26                 18 22 45.33    -19 36 02.3    11.16J                                      PGIR20dsv             ASASSN-20ga                              T13790 A  706 T13801 T13804 T13807
@@ -265,7 +265,7 @@ N Sgr 1975    1975 07 13       V3889 Sgr    17 58 21.36    -28 21 52.7     8.4 v
 N Sct 1975    1975 06 15       V373 Sct     18 55 26.74    -07 43 05.4     7.1 v    7.1 v   18.5 p      85    NA                            P. Wild                                    2791
 N Sgr 1975/2  1975 06 08       V3964 Sgr    17 49 42.38    -17 23 35.6     9.4 p    6   p  <17   p      32    NA                            I. Lundstroem, B. Stenholm                 2997
 N Aql 1975    1975 06 06       V1301 Aql    19 17 55.23    +04 47 18.4    10.3 v   10.3 v   21   p      35    NA                            P. Wild                                    2788
-Aql X-1       1975 06    X-1   V1333 Aql    19 11 15.95    +00 35 06.8    14.8 v            19.4 v      ?     XND     4U1908+00                                                        2793   7646
+Aql X-1       1975 06    X-1   V1333 Aql    19 11 15.95    +00 35 06.8    14.8 v            19.4 v      ?     XND     4U1908+00                                                        2793   7646 A  718
 N TrA 1974    1974 11 12       KY TrA       15 28 16.81    -61 52 57.7    17.5 B            22   j     450    XND     TrA X-1                                                          2729
 N Per 1974    1974 11 09       V400 Per     03 07 38.18    +47 07 39.1     7.8 p            20   p      43    NA                            N. Sanduleak                               2716
 N Sgr 1976    1974 10 06       V3888 Sgr    17 48 41.11    -18 45 36.9     9.0 v    6.5 v   16   j      ?     N                             Y. Kuwano                                  2707
