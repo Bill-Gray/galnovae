@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+  Sgr         2020 10 02.9799  AT2020urz    17 54 59.98    -21 22 41.30   11.1                                        PNV J17545999-2122401 Brazilian Transient Search (BraTS)       A14062 A14064
 N Sco 2020    2020 09 08.423   V1708 Sco    17 23 41.93    -31 03 07.6                                                TCP J17234205-3103072 T. Kojima                                C 4848 T14015 T14017 T14028
 N Aql 2020/2  2020 07 13.26                 19 14 26.27    +14 44 40.1    13.35J                                      PGIR20eig, AT2020qpq  Palomar Gattini-IR Collaboration (PGIR)  A  713 T13914
 N Cas 2020    2020 07 27.9302  V1391 Cas    00 11 42.96    +66 11 20.83   12.9     12.66                              TCP J00114297+6611190 S. Korotkiy, K. Sokolovsky               C 4857 C 4842 A  715 T13903 T13904 T13905 T13919 T13939 T13940 T13941 T13967 T13998 T14004 T14006
