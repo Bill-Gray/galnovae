@@ -1,8 +1,9 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
-N Per 2020    2020 11 25.807   V1112 Per    04 29 18.85    +43 54 23.0    10.6                                        TCP J04291884+4354232 S. Ueda, S. Korotkiy, K. Sokolovsky etal C 4890 T14224 T14229 T14230 A  726
+N Oph 2021?   2021 02 15.9744  AT2021ddo    17 33 14.83    -27 43 10.99   15.75G                                      Gaia21avt             Gaia                                     T14402 T14410 T14413
+N Per 2020    2020 11 25.807   V1112 Per    04 29 18.85    +43 54 23.0    10.6                                        TCP J04291884+4354232 S. Ueda, S. Korotkiy, K. Sokolovsky etal C 4906 C 4890 T14224 T14229 T14230 T14243 T14256 A  726
 N Sgr 2020/4  2020 10 02.9799  V6593 Sgr    17 54 59.99    -21 22 40.1    11.1                                        PNV J17545999-2122401 Brazilian Transient Search (BraTS)       C 4865 T14062 T14064 A  722
 N Sco 2020    2020 09 08.423   V1708 Sco    17 23 41.93    -31 03 07.6                                                TCP J17234205-3103072 T. Kojima                                C 4848 T14015 T14017 T14028
-N Aql 2020/2  2020 07 13.26                 19 14 26.27    +14 44 40.1    13.35J                                      PGIR20eig, AT2020qpq  Palomar Gattini-IR Collaboration (PGIR)  A  713 T13914
+N Aql 2020/2  2020 07 13.26    V2029 Aql    19 14 26.27    +14 44 40.1    13.35J                                      PGIR20eig, AT2020qpq  Palomar Gattini-IR Collaboration (PGIR)  A  713 T13914
 N Cas 2020    2020 07 27.9302  V1391 Cas    00 11 42.96    +66 11 20.83   12.9     12.66                              TCP J00114297+6611190 S. Korotkiy, K. Sokolovsky               C 4857 C 4842 A  715 T13903 T13904 T13905 T13919 T13939 T13940 T13941 T13967 T13998 T14004 T14006
 N Sgr 2020/3  2020 07 16.51939 V6568 Sgr    17 58 08.48    -30 05 37.6     9.9      9.9                               PNV J17580848-3005376 S. Fujikawa                              C 4813 C 4827 T13872 T13877 T13894 A  712
 N Ret 2020    2020 07 15.590   YZ Ret       03 58 29.55    -54 46 41.2     5        3.7                               MGAB-V207             R. McNaught                              C 4811 C 4826 C 4812 T13867 T13868 T13874 A  711 T13900
@@ -74,6 +75,7 @@ N Sco 2013    2013 06 03.6146  V1533 Sco    17 33 59.43    -36 06 21.6          
 N Cep 2013    2013 02 02.4119  V809 Cep     23 08 04.71    +60 46 52.1              9.8                               PNV J23080471+6046521 K. Nishiyama, F. Kabashima               C 3397 a  331   9260
 N Aql 2012    2012 10 20.4351  V1724 Aql    18 52 34.96    -00 18 42.3             11.2                               PNV J18523496-0018423                                          C 3273 C 3287
 N Mon 2012    2012 08 09.8048  V959 Mon     06 39 38.74    +05 53 52.0     9.4 C                                      PNV J06393874+0553520 S. Fujikawa                              C 3202 A  467
+N Car 2012/2  2012 07 24.68                 09 41 01.87    -57 59 55.7                                                PNV J09410000-5759540 N. J. Brown                              T14413 a  292
 N Sgr 2012/5  2012 07 16.512   V5593 Sgr    18 19 36.94    -19 07 40.2    12.6                                        PSN J18193700-1907400 T. Kojima                                C 3182 C 3184 A  465
 N Sgr 2012/4  2012 07 07.4986  V5592 Sgr    18 20 27.26    -27 44 26.3     7.8                                        PNV J18202726-2744263 K. Nishiyama, F. Kabashima               C 3166 a  289
 N Sgr 2012/3  2012 06 26.5494  V5591 Sgr    17 52 25.79    -21 26 21.5    10.3                                        PNV J17522579-2126215 K. Itagaki, Y. Sakurai                   C 3156 A  463
