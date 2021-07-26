@@ -1,0 +1,36 @@
+  1      A14  Name
+ 15      I4   Year discovered
+ 20      I2   Month discovered
+ 23      F8.5 Day discovered
+ 32      A10  GCVS designation
+ 45      A14  RA (J2000)
+ 60      A13  dec (J2000)
+ 74      I1   Discovery magnitude < or > indicator
+ 75      F5.2 Discovery magnitude
+ 80      A2   Discovery magnitude band
+ 84      F5.2 Max magnitude
+ 89      A2   Max magnitude band
+ 92      A1   Min mag uncertain (~) or maximum value (<)
+ 93      F4.1 Min mag
+ 97      A1   Min mag flag:  ?, :,  or blank
+ 98      A2   Min mag band
+101      A2   T3 indicator : >, <, A, B
+103      A6   T3.  Usually in days,  but there's a 16.7y,  many '?',  and others in there.
+111      A7   GCVS classification
+119      A21  Obscure cross-ID
+141      A40  Discover(ers)
+182      A6   Reference1.  All references start with
+
+'A' = AAVSO Alert Notice
+'a' = AAVSO Special Notice
+'C' = CBET;
+' ' = IAUC;
+'AN'=Astronomische Nachrichten
+'T' = The Astronomer's Telegram
+'PZ' = Peremennye Zvezdy
+
+   ...followed by up to five digits.
+189      A6   Reference2
+195      A6   Reference3
+...
+175+7n   A6   Referencen.  Currently,  maximum n=75 (references for N Cyg 1992).
