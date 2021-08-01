@@ -1,5 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
-  Vul         2021 07 16.4919               20 21 07.70    +29 14 09.1             12.4                               TCP J20210770+2914093                                          T14793
+N Vul 2021    2021 07 16.4919  V606 Vul     20 21 07.70    +29 14 09.1    12       10.5                               TCP J20210770+2914093 S. Kiyota                                C 5007 T14793 T14816
   Sco         2021 06 22.0703  AT 2021quw   17 39 44.729   -36 16 40.19   15   g   12.7                                                     ASASSN-21lk                              T14744 T14768
 N Her 2021    2021 06 12.537   V1674 Her    18 57 30.98    +16 53 39.5     8.4      6.0                               TCP J18573095+1653396 S. Ueda                                  C 4976 C 4977 C 5001 A  745 T14704 T14705 T14707 T14710 T14713 T14718 T14720 T14723 T14728 T14731 T14736 T14737 T14740 T14741
   Aql         2021 05 07       Gaia21cpb    19 12 38.610   +12 41 34.40            15.13g                             PGIR21fvh             AT2021nwn                                T14677
