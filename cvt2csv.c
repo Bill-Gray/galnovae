@@ -10,7 +10,7 @@ and can be run as,  e.g.,  './cvt2csv > galnovae.csv'.   */
 #include <assert.h>
 
 static const int column_starts[] = {
-         1, 15, 20, 23, 32, 45, 60, 74, 75, 80, 84, 89, 92, 93, 97, 98, 101, 103, 111, 119, 141, 182, 189, 195};
+         1, 15, 20, 23, 32, 45, 60, 74, 75, 80, 84, 89, 92, 93, 97, 98, 101, 103, 111, 119, 141, 182, 189, 196};
 
 static int extract_field( char *obuff, const char *buff, const int field_no)
 {
