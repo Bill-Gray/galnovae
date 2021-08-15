@@ -1,4 +1,10 @@
-all: galnovae xrefs galnovae.zip
+all: galnovae xrefs galnovae.zip galnovae.csv
+
+galnovae.csv: galnovae.txt cvt2csv
+	./cvt2csv >  galnovae.csv
+
+cvt2csv: cvt2csv.c
+	gcc -Wall -Wextra -pedantic -o cvt2csv cvt2csv.c
 
 galnovae: galnovae.cpp
 	g++ -Wall -O3 -o galnovae galnovae.cpp
@@ -10,6 +16,8 @@ galnovae.zip: galnovae.txt galnovae.err galnovae.tdf galnovae.idf
 	zip -j galnovae.zip galnovae.txt galnovae.err galnovae.tdf galnovae.idf
 
 clean:
-	rm galnovae.zip
-	rm galnovae
-	rm xrefs
+	-rm galnovae.zip
+	-rm galnovae
+	-rm xrefs
+	-rm cvt2csv
+	-rm galnovae.csv
