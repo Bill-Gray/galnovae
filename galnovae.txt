@@ -1,7 +1,7 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
-N Vul 2021    2021 07 16.4919  V606 Vul     20 21 07.70    +29 14 09.1    12       10.5                               TCP J20210770+2914093 S. Kiyota                                C 5007 T14793 T14816
+N Vul 2021    2021 07 16.475   V606 Vul     20 21 07.70    +29 14 09.1    12       10.0                               TCP J20210770+2914093 S. Kiyota                                C 5007 C 5012 T14793 T14816 T14832 A  749
   Sco         2021 06 22.0703  AT 2021quw   17 39 44.729   -36 16 40.19   15   g   12.7                                                     ASASSN-21lk                              T14744 T14768
-N Her 2021    2021 06 12.537   V1674 Her    18 57 30.98    +16 53 39.5     8.4      6.0                               TCP J18573095+1653396 S. Ueda                                  C 4976 C 4977 C 5001 A  745 T14704 T14705 T14707 T14710 T14713 T14718 T14720 T14723 T14728 T14731 T14736 T14737 T14740 T14741
+N Her 2021    2021 06 12.537   V1674 Her    18 57 30.98    +16 53 39.5     8.4      6.0                               TCP J18573095+1653396 S. Ueda                                  C 4976 C 4977 C 5001 A  745 T14704 T14705 T14707 T14710 T14713 T14718 T14720 T14723 T14728 T14731 T14736 T14737 T14740 T14741 T14746 T14747 T14758 T14765 T14776 T14798 T14805 T14824 T14835 T14856
   Aql         2021 05 07       Gaia21cpb    19 12 38.610   +12 41 34.40            15.13g                             PGIR21fvh             AT2021nwn                                T14677
   Aql         2021 04 19                    19 07 58.625   +08 43 45.14   12.28J   17.5 r                             PGIR21fjn             AT2021kgk                                T14567 T14570 T14571 T14572 T14574 T14576 T14578 T14647
 N Sco 2021    2021 04 12.1675  V1710 Sco    17 09 08.11    -37 30 40.9    11.1      8.7                               PNV J17091000-3730500 ASASSN-21fh, P. Camilleri                C 4955 T14544
@@ -37,7 +37,7 @@ N Lup 2018    2018 06 03.4306  V408 Lup     15 38 43.84    -47 44 41.07         
   Per         2018 04 29.4740  V392 Per     04 43 21.37    +47 21 25.8              6.2                               TCP J04432130+4721280 Y. Nakamura                              C 4514 C 4515 C 4718 A  633 T11588 T11590 T11594 T11601 T11605 T11617 T11647 T11846 T11872 T11905 T11926 T12951 T13381
   Sgr         2018 04 08.723   V5857 Sgr    18 04 09.45    -18 03 55.8    11.2     10.8 V  <21                NA      PNV J18040967-1803581 T. Kojima, H. Nishimura, Y. Nakamura     C 4507 C 4506 C 4505 C 4504 A  629 T11528 T11570 T11573 PZ38/5
 N CMa 2018    2018 03 24.496   V435 CMa     07 13 45.843   -21 12 31.28   12       12.1 V  <21.5              NA      TCP J07134590-2112330 Y. Nakamura                              C 4499 T11475 A  627 T12316 PZ38/5
-N Car 2018    2018 03 20.32    V906 Car     10 36 13.71    -59 35 55.1   <10.0      6.62V  <20                NA      ASSASN-18fv           ASASSN-18fv                              C 4498 T11454 T11456 T11457 T11460 T11467 T11468 T11504 T11506 T11508 T11546 T11553 A 626 PZ38/5
+N Car 2018    2018 03 20.32    V906 Car     10 36 13.71    -59 35 55.1   <10.0      6.62V  <20                NA      ASSASN-18fv           ASASSN-18fv                              C 4498 T11454 T11456 T11457 T11460 T11467 T11468 T11504 T11506 T11508 T11546 T11553 A  626 PZ38/5
 N Oph 2018/2  2018 03 10.805   V3665 Oph    17 14 02.53    -28 49 23.3              9.3 V  <18.3              NA      PNV J17140261-2849237 H. Nishimura, T. Kojima et. al.          C 4492 T11398 T11409 A  622 PZ38/5
   Sco         2018 02 24.36    V1663 Sco    17 03 47.509   -38 16 57.14   14.3     11.4 V  <16                NA      ASSASN-18ds                                                    T11348 T11360 T11364 T11365 PZ38/5
 N Oph 2018/1  2018 02 12.834   V3664 Oph    17 24 40.11    -24 21 46.3    12.5     12.8 V   16.7              N:      PNV J17244011-2421463 T. Kojima                                C 4489 T11338 A  619 PZ38/5
@@ -132,7 +132,7 @@ N Oph 2008/2  2008 05 31.608   V2671 Oph    17 33 29.62    -27 01 14.8    11.3 C
 N Oph 2008/1  2008 05 25.69    V2670 Oph    17 39 50.93    -23 50 00.9    10.2 v   10.3    <20   R            N                             K. Nishiyama, H. Nishimura, K. Haseda    A  380   8947   8948   8949   8956   8998
 N Sgr 2008    2008 04 18.784   V5579 Sgr    18 05 58.88    -27 13 56.0     8.4 C    6.7 V  ~21.5?R            NA                            K. Nishiyama, F. Kabashima                 8937 a  105 a  106 C 1352 C 1344 C 1342   8940   8952
 N Cyg 2008/2  2008 04 10.728   V2491 Cyg    19 43 01.96    +32 19 13.8     7.7 C    7.4 V   18.2 r'           NA                            K. Nishiyama, F. Kabashima               a  104   8938   8935   8934 C 1354 C 1334 C 1379
-N TrA 2008    2008 04 01.73    NR TrA       16 18 48.21    -60 27 48.9     9.2 p    9.0 v  <20   j            N                             N. J. Brown                                8935 8 931 a  102 C1 327  A  570
+N TrA 2008    2008 04 01.73    NR TrA       16 18 48.21    -60 27 48.9     9.2 p    9.0 v  <20   j            N                             N. J. Brown                                8935   8931 a  102 C 1327 A  570
 N Cyg 2008/1  2008 03 07.801   V2468 Cyg    19 58 33.57    +29 52 11.6     8.2 C    7.7 V  <21   r'           NA                            H. Nakano, Z. Jin, X. Gao                  8936   8928   8927 a   98 C 1291 C 1323 A  374   8998
 N Vul 2007/2  2007 12 25.35    V459 Vul     19 48 08.87    +21 15 26.8     8.7 C    7.7 v   19.2 r'           N                             H. Kaneda, A. Tago                       A  364   8907
 N Pup 2007/1  2007 08 14.21    V597 Pup     08 16 17.99    -34 15 25.0     7.0 v            22  ?j            N:                            A.J.S.Pereira                              8895   8896   8902 A  362
@@ -326,13 +326,13 @@ N Sct 1961    1961 05 22       V366 Sct     18 29 42.8     -12 18 54      15.4  
 N Oph 1961    1961 04 20       V1012 Oph    17 41 34.42    -23 23 33.1    13.8 p            22   j      ?     N                             S. P. Apriamashvili                        1758
 N Ser 1960    1960 07 29       DZ Ser       18 00 58.90    -10 33 52.1    14.0 p    7  ?p   21   p      ?     N                             J. Nassau/C. Stephenson                  H 1526
 N Sct 1960    1960 06 29       FV Sct       18 34 51.58    -12 55 26.7    12.5 p    7  ?p   20   p      ?     N                             M. V. Saveljeva                            1761
-N Sgr 1960    1960 05 24       V1944 Sgr    18 00 36.64    -27 17 16.9    13   p    7.5 p       ?       ?     N                             S. P. Apriamashvili                      A C222
+N Sgr 1960    1960 05 24       V1944 Sgr    18 00 36.64    -27 17 16.9    13   p    7.5 p       ?       ?     N                             S. P. Apriamashvili                      AC 222
 N Her 1960    1960 03 07       V446 Her     18 57 21.54    +13 14 29.9     3.0 p    3.0 p   18.0 p      16    NA                            O. Hassel                                  1714
-N Aur 1960    1960             KR Aur       06 15 43.82    +28 35 08.4    11.3 p            17.3 p      -     UGZ?                          M. Popova                                M V463
-              1959 08 29       V1235 Oph    17 01 49       -20 20 59      17.0 p           <20.8 p      ?     N:/UV   Plaut No. 111         L. Plaut                                 B N003
-*             1959 06 27       V1548 Oph    17 11 24       -16 21                                             N?                            L. Plaut                                   BN003
-              1959 04 19       V1195 Oph    17 00 22       -20 53 30      16.3 p           <20.1 p      ?     M:      Plaut No. 71          L. Plaut                                 B N003
-N Sct 1958    1958 09 17       V427 Sct     18 42 59.77    -04 28 19.9    15   p            17. ?p      -     M?      S-WS 12               S. Apriamashvili                         A C229
+N Aur 1960    1960             KR Aur       06 15 43.82    +28 35 08.4    11.3 p            17.3 p      -     UGZ?                          M. Popova                                MV 463
+              1959 08 29       V1235 Oph    17 01 49       -20 20 59      17.0 p           <20.8 p      ?     N:/UV   Plaut No. 111         L. Plaut                                 BN 003
+*             1959 06 27       V1548 Oph    17 11 24       -16 21                                             N?                            L. Plaut                                 BN 003
+              1959 04 19       V1195 Oph    17 00 22       -20 53 30      16.3 p           <20.1 p      ?     M:      Plaut No. 71          L. Plaut                                 BN 003
+N Sct 1958    1958 09 17       V427 Sct     18 42 59.77    -04 28 19.9    15   p            17. ?p      -     M?      S-WS 12               S. Apriamashvili                         AC 229
 N Oph 1957    1957 09 18       V972 Oph     17 34 43.85    -28 10 35.8     8.0 p    8.0 p   17.0 j     176    NB                            G. Haro                                  H 1405
 N UMi 1956    1956             RW UMi       16 47 52.15    +77 02 10.2     6   p    6   p   21  ?p     140    NB                            V. Satyvaldiev                           V 0018
 N Lib 1955    1955 04 20       N Lib 1955   15 10 06       -01 55                  10                         UG                            Debehogne                                  5131
@@ -341,7 +341,7 @@ N Sgr 1954/2  1954 08 30       V1274 Sgr    17 48 55       -17 51         10.5  
 N Sco 1954    1954 08 30       NSV09808 Sco 17 53 40       -30 45 31      13.8 p                ?       ?     N                             P. Wild                                    1471
 N Sgr 1954/1  1954 07 04       V1275 Sgr    17 59 06.26    -36 18 40.4     7.0 p    7.0 p   18   j  >   10    NA      N Sco 1954            G. Haro/L. Herraro                         1459
 N Oph 1954    1954 07 02       V908 Oph     17 27 50       -27 45          9        7.5         ?       ?     N                             V. Blanco                                  1461
-  (1953)      1953 08 05       V2446 Sgr    17 59 23.10    -29 02 16.9    17.4 p           <19.3 p      -     M                             P. Oosterhoff/J. Ponsen                  B N003
+  (1953)      1953 08 05       V2446 Sgr    17 59 23.10    -29 02 16.9    17.4 p           <19.3 p      -     M                             P. Oosterhoff/J. Ponsen                  BN 003
 N Cha 1953    1953 04 08       RR Cha       13 26 23.52    -82 19 43.6     7.1 p            19.3 j      60    NA:                           C. Hoffmeister                             1671
 N Sgr 1953    1953 02 10       NSV10158 Sgr 18 05 12       -29 54 40      10.5                  ?       ?     N                             G. Haro                                    1391
 N Car 1953    1953 02 09       V411 Car     10 31 19.26    -59 58 25.95   14.5 p            19   p      ?     N                             L. Perek                                 V 2502
@@ -360,158 +360,158 @@ N Sco 1950/3  1950 09 03       V721 Sco     17 42 29.01    -34 40 41.9    10.1 p
 N Sco 1950/2  1950 08 07       V720 Sco     17 51 58.07    -35 23 21.5     7.5 p            21   j      ?     N                             G. Haro/E. R. Herzog                       1283
 N Sco 1950/1  1950 07 20       V719 Sco     17 45 43.76    -34 00 55.0     9.8 p    9.8 p   20.5 j      24    NA                            F. Zwicky                                  1280
 N Lac 1950    1950 01 23       DK Lac       22 49 46.89    +53 17 18.5     5.9 p    5.0 p   15.5 p  A?  32    NA                            C. Bertaud                                 7777
-  (1965)      1950             V4074 Sgr    18 16 05.47    -30 51 11.5     8.6 p    8.6 p   12.3 p     120    NB/ZAND AS295(B)              P. W. Merrill, C. G. Burwell             A P112
-              1950             V2110 Oph    17 43 33.25    -22 45 36.9    12.0 p            20   j      ?     NB/ZAND AS 239                P. W. Merrill, C. G. Burwell             A P112
+  (1965)      1950             V4074 Sgr    18 16 05.47    -30 51 11.5     8.6 p    8.6 p   12.3 p     120    NB/ZAND AS295(B)              P. W. Merrill, C. G. Burwell             AP 112
+              1950             V2110 Oph    17 43 33.25    -22 45 36.9    12.0 p            20   j      ?     NB/ZAND AS 239                P. W. Merrill, C. G. Burwell             AP 112
 N Sct 1949    1949 08 05       EU Sct       18 56 13.03    -04 12 32.6     8.4 p    8.4 p   18   p      42    NA                            C. Bertaud                                 1224
-N Sco 1949    1949 05 21       V902 Sco     17 26 08.47    -39 04 06.0    11   p   11  ?    20.0 j     200    NB      KZP 7652              K. G. Henize/G. Haro                     P A073
+N Sco 1949    1949 05 21       V902 Sco     17 26 08.47    -39 04 06.0    11   p   11  ?    20.0 j     200    NB      KZP 7652              K. G. Henize/G. Haro                     PA 073
 N CrA 1949    1949 03 23       V394 CrA     18 00 26.00    -39 00 35.0     7.5 p    7.5 p   20   j      ?     NR      N Sco 1949            L. E. Erro                                 1208   4428   4429   4430   4445
-N Car 1948    1948 07 02       V365 Car     11 03 16.00    -58 27 27.7    10.1 p   10.1 p   21.6 j     530    NB      He 3-558              K. G. Henize                             A S014
+N Car 1948    1948 07 02       V365 Car     11 03 16.00    -58 27 27.7    10.1 p   10.1 p   21.6 j     530    NB      He 3-558              K. G. Henize                             AS 014
 N Cyg 1948    1948 06 02       V465 Cyg     19 52 37.64    +36 33 52.7     8.0 p    7.3 p   17.0 p     140    NB      VV 67                 B. S. Whitney                              1154
 N Ser 1948    1948 04 09       CT Ser       15 45 39.00    +14 22 32.5     7.9 v    5   v   16.6 p      ?     N                             R. Bartaya                                 1150
 N Sgr 1947    1947 05 16       V928 Sgr     18 18 59.14    -28 05 58.8     8.9 p    8.5 p   20.5 j     150    NB                            C. G. Burwell                              1092
-N Sgr 1947    1947 04 17       V1151 Sgr    18 25 23.79    -20 11 59.3    11.1 p   10.5 p   20   j      135   NB                            M. W. Mayall                             A J054
+N Sgr 1947    1947 04 17       V1151 Sgr    18 25 23.79    -20 11 59.3    11.1 p   10.5 p   20   j      135   NB                            M. W. Mayall                             AJ 054
 *             1946 08 30 (258) V890 Aql     19 42 48       +01 25                                             mp                            Rigollet                                   1112
-N Sgr 1946    1946 05 28       V1150 Sgr    18 18 54.68    -24 05 30.4    13.3 p   12   p  <22   j  <  600    NB                            M. W. Mayall                             A J054
+N Sgr 1946    1946 05 28       V1150 Sgr    18 18 54.68    -24 05 30.4    13.3 p   12   p  <22   j  <  600    NB                            M. W. Mayall                             AJ 054
 N Sgr 1946    1946 04 11       V2506 Sgr    18 11 01.58    -28 32 37.9    11   p            13   p      ?     ZAND    PN 3-4 6              B. Welther                               A 1965
 N Aql 1945    1945 08 26       V528 Aql     19 19 19.01    +00 37 53.9     7.0 p    7.0 p   18.1 p  A   37    NA                            C. Bertaud                                 1014
-N Sgr 1945    1945 08 07       V1431 Sgr    18 02 04       -30 06 09      17.2 p           <19.4 p      ?     N?                            W. Baade                                 P Z010
-N Sgr 1945    1945 02 16       V1149 Sgr    18 18 30.41    -28 17 17.4     7.4 p            21   j  <  210    NB                            M. W. Mayall                             A J054
-N Sco 1944    1944 05 05       V696 Sco     17 53 11.55    -35 50 15.4     7.5 p            19.5 j       9    NA      Mayall 106            M. W. Mayall                             P A055
-N Sgr 1944    1944 04 22       V927 Sgr     18 07 43.14    -33 21 17.3     8.0 p    7.3 p   20  ?j  <   15    NA                            M. W. Mayall                             P A055
+N Sgr 1945    1945 08 07       V1431 Sgr    18 02 04       -30 06 09      17.2 p           <19.4 p      ?     N?                            W. Baade                                 PZ 010
+N Sgr 1945    1945 02 16       V1149 Sgr    18 18 30.41    -28 17 17.4     7.4 p            21   j  <  210    NB                            M. W. Mayall                             AJ 054
+N Sco 1944    1944 05 05       V696 Sco     17 53 11.55    -35 50 15.4     7.5 p            19.5 j       9    NA      Mayall 106            M. W. Mayall                             PA 055
+N Sgr 1944    1944 04 22       V927 Sgr     18 07 43.14    -33 21 17.3     8.0 p    7.3 p   20  ?j  <   15    NA                            M. W. Mayall                             PA 055
 N Aql 1943    1943 09 05       V500 Aql     19 52 27.87    +08 28 46.5     6.5 p    6.1 p   17.8 p      42    NA                            C. Hoffmeister                             0961
-N Sgr 1943    1943 08 03       V1148 Sgr    18 09 05.7     -25 59 07       8.0 p                ?       ?     N                             M. W. Mayall                             A J054
-N Mon 1942    1942 13 02       KT Mon       06 25 18.50    +05 26 31.6    10.3 p    9.8 p  <21   p      40    NA                            A. N. Vyssotzky                          A J059
+N Sgr 1943    1943 08 03       V1148 Sgr    18 09 05.7     -25 59 07       8.0 p                ?       ?     N                             M. W. Mayall                             AJ 054
+N Mon 1942    1942 13 02       KT Mon       06 25 18.50    +05 26 31.6    10.3 p    9.8 p  <21   p      40    NA                            A. N. Vyssotzky                          AJ 059
 N Pup 1942    1942 11 09       CP Pup       08 11 45.99    -35 21 05.9     0.5 v    0.5 v   15.0 v      8     NA                            B. H. Dawson                               0925
 N Cyg 1942    1942 09 08       V450 Cyg     20 58 47.41    +35 56 28.0     7.8 p    7.0 p   16.3?p     108    NB                            F. Zwicky                                  0918
-N Sgr 1941    1941 07 18       V909 Sgr     18 25 52.57    -35 01 27.3     6.8 p    6.8 p   20   j      7     NA                            M. W. Mayall                             P A051
-N Sco 1941    1941 03 09       V697 Sco     17 51 21.88    -37 24 55.2    10.2 p    8       17   j  <   15    NA                            M. W. Mayall                             P A055
-N Oph 1940    1940 08 03       V553 Oph     17 42 53.98    -24 51 33.1    12.5 p   11.0     22   j      45    NA                            C. G. Burwell/H. H. Swope                P A053
+N Sgr 1941    1941 07 18       V909 Sgr     18 25 52.57    -35 01 27.3     6.8 p    6.8 p   20   j      7     NA                            M. W. Mayall                             PA 051
+N Sco 1941    1941 03 09       V697 Sco     17 51 21.88    -37 24 55.2    10.2 p    8       17   j  <   15    NA                            M. W. Mayall                             PA 055
+N Oph 1940    1940 08 03       V553 Oph     17 42 53.98    -24 51 33.1    12.5 p   11.0     22   j      45    NA                            C. G. Burwell/H. H. Swope                PA 053
 N Vel 1940    1940 04 19       CQ Vel       08 58 51.1     -53 20 17       9.0 p    8.9 p   21   j      50    NA:                           C. J. van Houten                           1233
 N Gem 1940    1940 01 03       CI Gem       06 30 05.67    +22 18 57.4    14.7 p   14.7 p   18.5 p      ?     UG?                           C. Hoffmeister                           A N274
-  (1936)      1940             V407 Cyg     21 02 09.87    +45 46 33.4    13.3 p            17.0 p      ?     ZAND    MHalpha 289-90        C. Hoffmeister                           V S001   9130 C 2204 C 2199 C 2205 C 2210
+  (1936)      1940             V407 Cyg     21 02 09.87    +45 46 33.4    13.3 p            17.0 p      ?     ZAND    MHalpha 289-90        C. Hoffmeister                           VS 001   9130 C 2204 C 2199 C 2205 C 2210
 N Mon 1939    1939 12 17       BT Mon       06 43 47.24    -02 01 13.7     8.5 p    5   p   15.5 p      ?     NA      N Mon No. 2           A. A. Wachmann                             0806
-N Oph 1939    1939 07 15       V794 Oph     17 38 49.25    -22 50 49.1    11.7 p   11.7 p   18   p     220    NB                            C. G. Burwell/D. Hoffleit                P A055
+N Oph 1939    1939 07 15       V794 Oph     17 38 49.25    -22 50 49.1    11.7 p   11.7 p   18   p     220    NB                            C. G. Burwell/D. Hoffleit                PA 055
 N Ori 1939    1939 01 18       FU Ori       05 45 22.32    +09 04 12.4     9.6 p    9.6 p   16.0 p      -     FU                            A. A. Wachmann                             0738
-N Cyg 1938    1938 09 28       V404 Cyg     20 24 03.73    +33 52 03.3    12.5 p   11.0 p   20.5 p      60    XNR                           A. A. Wachmann                           B Z020 T 7738
-  (1938)      1938 08 03       NSV11561 Sct 18 56 34.20    -08 35 30.2    16.2 p            17.0 p      -     N??                           M. Harwood                               L A021
-              1938       M14   N Oph 1938   17 37 37.87    -03 14 37.8    15.6 p   10  ?    21   v      ?     N:                            H. Sawyer-Hogg/A. Wehlau                 A J069
-N Ara 1937    1937 07          KY Ara       18 08 20.86    -54 56 12.9    15.1 p            18  ?p      ?     UG?                           C. D. Boyd                               H A090
-              1937 06 29       V733 Sco     17 39 42.92    -35 52 38.4    13.5 p            21   j      ?     M:/N:   Plaut V106            L. Plaut                                 L A021
-N Sgr 1937    1937 05 20       V787 Sgr     18 00 02.11    -30 30 29.9     9.8 p            21  ?j      74    NA:                           H. H. Swope                              H B913
-  (1937)      1937 05 10       V745 Sco     17 55 22.16    -33 14 57.5    11.2 p            21   j      12    NR      Also in 1989          L. Plaut                                 L A021 C 3803 A  497 A  496 a  380 T 5962 T 5897 T 5884 T 5881 T 5879 T 5877 T 5874 T 5871 T 5870 T 5865 T 5862
+N Cyg 1938    1938 09 28       V404 Cyg     20 24 03.73    +33 52 03.3    12.5 p   11.0 p   20.5 p      60    XNR                           A. A. Wachmann                           BZ 020 T 7738
+  (1938)      1938 08 03       NSV11561 Sct 18 56 34.20    -08 35 30.2    16.2 p            17.0 p      -     N??                           M. Harwood                               LA 021
+              1938       M14   N Oph 1938   17 37 37.87    -03 14 37.8    15.6 p   10  ?    21   v      ?     N:                            H. Sawyer-Hogg/A. Wehlau                 AJ 069
+N Ara 1937    1937 07          KY Ara       18 08 20.86    -54 56 12.9    15.1 p            18  ?p      ?     UG?                           C. D. Boyd                               HA 090
+              1937 06 29       V733 Sco     17 39 42.92    -35 52 38.4    13.5 p            21   j      ?     M:/N:   Plaut V106            L. Plaut                                 LA 021
+N Sgr 1937    1937 05 20       V787 Sgr     18 00 02.11    -30 30 29.9     9.8 p            21  ?j      74    NA:                           H. H. Swope                              HB 913
+  (1937)      1937 05 10       V745 Sco     17 55 22.16    -33 14 57.5    11.2 p            21   j      12    NR      Also in 1989          L. Plaut                                 LA 021 C 3803 A  497 A  496 a  380 T 5962 T 5897 T 5884 T 5881 T 5879 T 5877 T 5874 T 5871 T 5870 T 5865 T 5862
 N Sco 1937    1937             V734 Sco     17 45 01.53    -35 37 55.9    14.7 p            20   j      ?     M:/N:   Plaut V110            L. Plaut
 N Aql 1936/2  1936 10 07       V368 Aql     19 26 34.44    +07 36 13.7     5.0 p    5.0 p   15.4 p  ?   17    NA      N Aql No. 6           N. Tamm                                    0625
 N Sgr 1936    1936 10 03       V630 Sgr     18 08 48.29    -34 20 21.35    4.5 v    4.5.v   19   j      11    NA      N Sgr No. 7           S. Okabayashi                              0622
-N Sgr 1936    1936 09 21       V990 Sgr     17 57 18       -28 19 06      11.1 p   11.1 p       ?       24    NA:     Plaut 57              L. Plaut                                 L A020
+N Sgr 1936    1936 09 21       V990 Sgr     17 57 18       -28 19 06      11.1 p   11.1 p       ?       24    NA:     Plaut 57              L. Plaut                                 LA 020
 N Aql 1936/1  1936 09 18       V356 Aql     19 17 13.56    +01 43 22.1     7.7 p    7.7 p   17.7 p     115    NB                            N. Tamm                                    0616
-              1936 09 12       V729 Sco     17 22 02.71    -32 05 48.8    14.0 p            22   j      ?     M:/N:   Plaut V92             L. Plaut                                 L A021
+              1936 09 12       V729 Sco     17 22 02.71    -32 05 48.8    14.0 p            22   j      ?     M:/N:   Plaut V92             L. Plaut                                 LA 021
 N Lac 1936    1936 06 18       CP Lac       22 15 41.09    +55 37 01.3     2.1 v    2.1 v   16.6 p      10    NA      N Cep 1936            K. Gomi                                    0594
-N Sgr 1936    1936 06 10       V732 Sgr     17 56 07.48    -27 22 17.0     6.5 p                ?       74    NA                            C. G. Burwell                            P A049
+N Sgr 1936    1936 06 10       V732 Sgr     17 56 07.48    -27 22 17.0     6.5 p                ?       74    NA                            C. G. Burwell                            PA 049
 N Sgr 1936    1936 04 30       V726 Sgr     18 19 33.73    -26 53 19.5    10.8 p   10.5 p   19  ?j      95    NA      18.1938               M. W. Mayall                             H 0439
-N Sgr 1935    1935 05 14       V1310 Sgr    18 35 00       -30 04 22      11.7 p                ?      390    NB:                           A. D. Fokker                             L A020
-  (1935)      1935 02 08       V744 Sco     17 53 18.12    -31 13 35.0    13.3 p            21   p      ?     N:      Plaut V133            L. Plaut                                 L A021
-N Cru 1935    1935             AP Cru       12 31 20.38    -64 26 24.5    10.7 p    9.0 p   21.7 j      ?     N:                            D. J. K. O'Connell                       A N259
+N Sgr 1935    1935 05 14       V1310 Sgr    18 35 00       -30 04 22      11.7 p                ?      390    NB:                           A. D. Fokker                             LA 020
+  (1935)      1935 02 08       V744 Sco     17 53 18.12    -31 13 35.0    13.3 p            21   p      ?     N:      Plaut V133            L. Plaut                                 LA 021
+N Cru 1935    1935             AP Cru       12 31 20.38    -64 26 24.5    10.7 p    9.0 p   21.7 j      ?     N:                            D. J. K. O'Connell                       AN 259
 N Her 1934    1934 12 12       DQ Her       18 07 30.19    +45 51 31.9     1.3 v    1.3 v   14.5 v      94    NA                            J. P. M. Prentice                          0500
-N Pav 1934    1934 09 07       BD Pav       18 43 11.73    -57 30 44.4    12.4 p            16.5 j      ?     UG                            C. D. Boyd                               H A090
-N CMa 1934    1934 01 12       CG CMa       07 04 05.01    -23 45 35.4    13.7 p            15.9?p      -     N?                            J. Verlooy                               L V012
-N Sgr 1933    1933 06 30 V908  V737 Sgr     18 07 08.71    -28 44 52.2    10.3 p    8.5 p   19   j  >   70    N:      V908 Sgr              W. O'Leary                               A N264
-N Sgr 1932    1932 06 14       V1905 Sgr    18 33 42.05    -25 20 36.6     9.1 p    8.0 p   19   j      ?     N:                            J. H. Anderson                           A J063
-N Sgr 1931    1931 08 16       V522 Sgr     18 48 00.40    -25 22 22.4    12.9 p   12.8 p   17   p      ?     N:/UG                         J. G. Ferwerda                           B N007
-N Cen 1931    1931 05 09       MT Cen       11 44 00.78    -60 33 39.3     8.35p    8.35p   22   j      ?     N:                                                                     B N007
+N Pav 1934    1934 09 07       BD Pav       18 43 11.73    -57 30 44.4    12.4 p            16.5 j      ?     UG                            C. D. Boyd                               HA 090
+N CMa 1934    1934 01 12       CG CMa       07 04 05.01    -23 45 35.4    13.7 p            15.9?p      -     N?                            J. Verlooy                               LV 012
+N Sgr 1933    1933 06 30 V908  V737 Sgr     18 07 08.71    -28 44 52.2    10.3 p    8.5 p   19   j  >   70    N:      V908 Sgr              W. O'Leary                               AN 264
+N Sgr 1932    1932 06 14       V1905 Sgr    18 33 42.05    -25 20 36.6     9.1 p    8.0 p   19   j      ?     N:                            J. H. Anderson                           AJ 063
+N Sgr 1931    1931 08 16       V522 Sgr     18 48 00.40    -25 22 22.4    12.9 p   12.8 p   17   p      ?     N:/UG                         J. G. Ferwerda                           BN 007
+N Cen 1931    1931 05 09       MT Cen       11 44 00.78    -60 33 39.3     8.35p    8.35p   22   j      ?     N:                                                                     BN 007
 *             1931 03 23       TV Crv       12 20 24       -18 27                                             UG                            C. Tombaugh                                4983
-N Sgr 1930    1930 09 12       V441 Sgr     18 22 08.13    -25 28 53.6     8.7 p    8.0 p       ?       53    NA                            D. Hoffleit                              H B890
-              1930 04 20       V359 Cen     11 58 15.33    -41 46 08.1    13.8 p            21.0 j      ?     N:                                                                     L C004
-N Vir 1929    1929 02 01       HV Vir       13 21 03.09    +01 53 29.3    11   p            19   p      ?     N                             H. Schneller                             A N243
-N Cas 1929    1929             BC Cas       23 51 17.37    +60 18 10.5    10.7 p            17.4 p      75    NA:                                                                    A N243
-N Sgr 1928    1928 07 24       V1583 Sgr    18 15 26.49    -23 23 17.7     8.9 p    8.9 p   21   j  B   37    NA:                           D. Hoffleit                              A J060
-N Sco 1928    1928 06 21       KP Sco       17 44 16.52    -35 43 23.6     9.4 p    9.4 p   21  ?j      38    NA:                           H. H. Swope                              H B870
-  (1928)      1928             V352 Aql     19 13 33.54    +02 18 13.5    13.3 p            18   p  > 2000    ZAND    PN 37 -3.3            C. Hoffmeister et al.                    V S002
+N Sgr 1930    1930 09 12       V441 Sgr     18 22 08.13    -25 28 53.6     8.7 p    8.0 p       ?       53    NA                            D. Hoffleit                              HB 890
+              1930 04 20       V359 Cen     11 58 15.33    -41 46 08.1    13.8 p            21.0 j      ?     N:                                                                     LC 004
+N Vir 1929    1929 02 01       HV Vir       13 21 03.09    +01 53 29.3    11   p            19   p      ?     N                             H. Schneller                             AN 243
+N Cas 1929    1929             BC Cas       23 51 17.37    +60 18 10.5    10.7 p            17.4 p      75    NA:                                                                    AN 243
+N Sgr 1928    1928 07 24       V1583 Sgr    18 15 26.49    -23 23 17.7     8.9 p    8.9 p   21   j  B   37    NA:                           D. Hoffleit                              AJ 060
+N Sco 1928    1928 06 21       KP Sco       17 44 16.52    -35 43 23.6     9.4 p    9.4 p   21  ?j      38    NA:                           H. H. Swope                              HB 870
+  (1928)      1928             V352 Aql     19 13 33.54    +02 18 13.5    13.3 p            18   p  > 2000    ZAND    PN 37 -3.3            C. Hoffmeister et al.                    VS 002
 N Tau 1927    1927 11 18       XX Tau       05 19 24.47    +16 43 00.7     5.9 p    5.9 p   18.5 p      42    NA                            A. Schwassmann/A. Wachmann                 0171
-N Sgr 1927    1927 09 30       V363 Sgr     19 11 16.15    -29 50 01.4     8.8 p    8.7 p   20   j      64    NA                            F. Becker                                Z A001
+N Sgr 1927    1927 09 30       V363 Sgr     19 11 16.15    -29 50 01.4     8.8 p    8.7 p   20   j      64    NA                            F. Becker                                ZA 001
 N Aql 1927    1927 07 30       EL Aql       18 56 01.80    -03 19 18.9     6.4 p    6.4 p   20   p      25    NA                            M. Wolf                                    0161
-N Cir 1927    1926 17 21       X Cir        14 42 40.13    -65 11 36.0     6.5 p    6.2 p  <23   j     170    NB      N Cir No. 2           F. Becker                                A N237
-  (1926)      1926 09 08       EY Aql       19 34 44.55    +15 01 51.7    10.5 p            20   r      40    NA:                           V. Albitzky                              A N235
-N Sgr 1926    1926 07 16       FM Sgr       18 17 18.07    -23 38 27.7     8.6 p    8   p   20.5?j      30    NA:                           A. J. Cannon                             H B843
-N Sgr 1926    1926 06 14       KY Sgr       18 01 20.95    -26 24 39.6    10.6 p    8  ?p   20   j      60    NA:                           I. E. Woods                              H B861
-N Aql 1925    1925 09 14       DO Aql       19 31 25.83    -06 25 38.4     8.7 v    8.7 v   16.5 p     900    NB                            M. Wolf                                  A N225
+N Cir 1927    1926 17 21       X Cir        14 42 40.13    -65 11 36.0     6.5 p    6.2 p  <23   j     170    NB      N Cir No. 2           F. Becker                                AN 237
+  (1926)      1926 09 08       EY Aql       19 34 44.55    +15 01 51.7    10.5 p            20   r      40    NA:                           V. Albitzky                              AN 235
+N Sgr 1926    1926 07 16       FM Sgr       18 17 18.07    -23 38 27.7     8.6 p    8   p   20.5?j      30    NA:                           A. J. Cannon                             HB 843
+N Sgr 1926    1926 06 14       KY Sgr       18 01 20.95    -26 24 39.6    10.6 p    8  ?p   20   j      60    NA:                           I. E. Woods                              HB 861
+N Aql 1925    1925 09 14       DO Aql       19 31 25.83    -06 25 38.4     8.7 v    8.7 v   16.5 p     900    NB                            M. Wolf                                  AN 225
 N Pic 1925    1925 05 25       RR Pic       06 35 36.05    -62 38 23.4     1.0 v    1.0 v   11.9 p     150    NB                            R. Watson                                  0067
-N Sgr 1924    1924 05 13       FL Sgr       18 00 29.85    -34 36 17.4     8.3 p    8   p   20   j      32    NA:                           M. A. Gill                               H B847
-N Sgr 1924    1924 04 30       GR Sgr       18 22 58.46    -25 34 47.0    11.4 p    7.5 p   16.5 p      ?     N                             I. E. Woods                              H B851
-N Sco 1922    1922 07 11       V707 Sco     17 48 26.42    -36 37 54.9     9.9 p    9.6 p   20   j      49    NA      N Sco No. 3           A. J. Cannon                             H B773
-              1921             KX TrA       16 44 35.18    -62 37 13.9        ?                               ZAND    PN 326-10.1           A. J. Cannon                             H C224
-N Cyg 1920    1920 08 20       V476 Cyg     19 58 24.58    +53 37 07.2     2.0 p    2.0 p   17.2 B      16.5  NA      N Cyg No. 3           W. F. Denning                            A N211
-N Lyr 1919    1919 12 06       HR Lyr       18 53 25.01    +29 13 37.5     6.5 p    6.5 p   15.8 p      74    NA                            J. C. Mackie                             H B705 T 9418
-N Oph 1919    1919 08 20       V849 Oph     18 14 07.20    +11 36 42.7     7.3 p    7.2 p   17   p     175    NB      N Oph No. 4           J. C. Mackie                             A N210
-N Aql 1919    1919 07 04       V605 Aql     19 18 20.48    +01 46 59.5    10.4 v   10.4 v   22.5 v    1500    NBpec   N Aql No. 4           M. Wolf                                  A N211
-N Sgr 1919    1919 03 11       V1017 Sgr    18 32 04.35    -29 23 12.7     7.2 p    7.2 p   14.7 B     130    NR      N Sgr No. 5           I. E. Woods                              A N210 A  623
-N Aql 1918    1918 06 08       V603 Aql     18 48 54.54    +00 35 02.9    -1.1 v   -1.1 v   12.0 v       8    NA      N Aql No. 3           G. N. Bower                              A N207 A  743
+N Sgr 1924    1924 05 13       FL Sgr       18 00 29.85    -34 36 17.4     8.3 p    8   p   20   j      32    NA:                           M. A. Gill                               HB 847
+N Sgr 1924    1924 04 30       GR Sgr       18 22 58.46    -25 34 47.0    11.4 p    7.5 p   16.5 p      ?     N                             I. E. Woods                              HB 851
+N Sco 1922    1922 07 11       V707 Sco     17 48 26.42    -36 37 54.9     9.9 p    9.6 p   20   j      49    NA      N Sco No. 3           A. J. Cannon                             HB 773
+              1921             KX TrA       16 44 35.18    -62 37 13.9        ?                               ZAND    PN 326-10.1           A. J. Cannon                             HC 224
+N Cyg 1920    1920 08 20       V476 Cyg     19 58 24.58    +53 37 07.2     2.0 p    2.0 p   17.2 B      16.5  NA      N Cyg No. 3           W. F. Denning                            AN 211
+N Lyr 1919    1919 12 06       HR Lyr       18 53 25.01    +29 13 37.5     6.5 p    6.5 p   15.8 p      74    NA                            J. C. Mackie                             HB 705 T 9418
+N Oph 1919    1919 08 20       V849 Oph     18 14 07.20    +11 36 42.7     7.3 p    7.2 p   17   p     175    NB      N Oph No. 4           J. C. Mackie                             AN 210
+N Aql 1919    1919 07 04       V605 Aql     19 18 20.48    +01 46 59.5    10.4 v   10.4 v   22.5 v    1500    NBpec   N Aql No. 4           M. Wolf                                  AN 211
+N Sgr 1919    1919 03 11       V1017 Sgr    18 32 04.35    -29 23 12.7     7.2 p    7.2 p   14.7 B     130    NR      N Sgr No. 5           I. E. Woods                              AN 210 A  623
+N Aql 1918    1918 06 08       V603 Aql     18 48 54.54    +00 35 02.9    -1.1 v   -1.1 v   12.0 v       8    NA      N Aql No. 3           G. N. Bower                              AN 207 A  743
 N Leo 1918    1918 03 13       RZ Leo       11 37 22.45    +01 48 57.7    10.5 p            17.5 p      -     UGWZ                          M. Wolf                                    7547   7552
-N Mon 1918    1918 02 04       GI Mon       07 26 47.09    -06 40 29.3     5.6 p    5.2 p   18   p      23    NA      N Mon No. 1           M. Wolf                                  A N206
-N Sgr 1917    1917 07 17       BS Sgr       18 26 46.66    -27 08 19.9     9.2 p    9.2 p   17   j     700    NB      Zi 1390               R. T. A. Innes                           U C037
-N Oph 1917    1917 04 25       V840 Oph     16 54 43.94    -29 37 27.9     6.5 p    5.5 p   20  ?j      36    NA:     N Oph No. 5           I. E. Woods                              A N210
-  (1916)      1916 06          SS Sge       19 39 08.36    +16 42 39.8    11.8 p   11.8 p   16.3 p      ?     ZAND/NC                       S. Beljawski                             A N227
+N Mon 1918    1918 02 04       GI Mon       07 26 47.09    -06 40 29.3     5.6 p    5.2 p   18   p      23    NA      N Mon No. 1           M. Wolf                                  AN 206
+N Sgr 1917    1917 07 17       BS Sgr       18 26 46.66    -27 08 19.9     9.2 p    9.2 p   17   j     700    NB      Zi 1390               R. T. A. Innes                           UC 037
+N Oph 1917    1917 04 25       V840 Oph     16 54 43.94    -29 37 27.9     6.5 p    5.5 p   20  ?j      36    NA:     N Oph No. 5           I. E. Woods                              AN 210
+  (1916)      1916 06          SS Sge       19 39 08.36    +16 42 39.8    11.8 p   11.8 p   16.3 p      ?     ZAND/NC                       S. Beljawski                             AN 227
 N Ori 1916    1916 01 30       GR Ori       05 21 34.98    +01 10 10.2    11.5 p           <21   p      ?     N:                            H. Thiele                                a  335 a  334
-  (1915)      1915 05 09       GL Sct       18 45 47.78    -06 25 09.2    13.6 p                ?       ?     N?                            Ms. Hanner                               L A021
-N Sgr 1914    1914 08 12       V1012 Sgr    18 06 14.14    -31 44 25.8     8.0 p    8.0 p   20   j      32    NA:     N Sgr No. 7           I. E. Woods                              A N213
-N Sgr 1914    1914 07 16       V949 Sgr     18 41 03       -28 09 28      15.7 p                ?       ?     N:      Zi 1468               R. T. A. Innes                           U C020
-N Cir 1914    1914 06 13       AI Cir       14 49 31.35    -68 51 36.1    10.9 p            23   j      ?     N:      N Cir No. 3           E. B. Florence                           H B883
-N Sgr 1914    1914             V939 Sgr     18 34 22.81    -26 54 30.3    14.2 p            -           -     M       Zi 1428               R. T. A. Innes                           U C020
-N Sge 1913    1913 11 22       WZ Sge       20 07 36.22    +17 42 15.4     7.0 p    7.0 p   15.0 p      30    UGWZ    N Sge No. 2           J. C. Mackie                             A N210
-N Sgr 1912    1912 06 21       V941 Sgr     18 34 43.40    -29 34 49.1    11.0 p                ?       ?     M       Zi 1430               R. T. A. Innes                           U C020
-N Gem 1912    1912 03 12       DN Gem       06 54 54.34    +32 08 27.8     3.5 p    3.5 p   15.8 p      37    NA      N Gem No. 2           S. Enebo                                 A N191
-N Per 1912    1912 01 12       UW Per       02 12 29.65    +57 05 19.9    13.5 p            18.0?p      ?     UG/N:                         C. R. d'Esterre                          A N191
-N Lac 1910    1910 12 30       DI Lac       22 35 48.50    +52 42 59.8     4.6 v    4.6 v   14.9 p      43    NA                            T. E. Espin                              A N186
-N Ara 1910    1910 04 04       OY Ara       16 40 50.32    -52 25 51.3     6.0 p    5.1 p   17.5 p      80    NA                            W. Fleming                               A N186
-N Sgr 1910    1910 03 21       V999 Sgr     18 00 05.63    -27 33 13.9     8.0 p    8.0 p   17.4 B     160    NB      N Sgr No. 2           W. Fleming                               A N186
-N Ser 1909    1909             RT Ser       17 39 51.88    -11 56 38.0    10.6 p   10.6 p   16   p      ?     ZAND/NC                       M. Wolf, E. E. Barnard                   A N204
-N Aqr 1907    1907 08 12       VY Aqr       21 12 09.05    -08 49 35.0     8.4 p            17.2 p      var   UGWZ                          F. E. Ross                               A J036 8 760  A  724
-N Sco 1906    1906 04 24       V711 Sco     17 54 06.06    -34 21 15.6     9.7 p    9.7 p   19   j      ?     N:      N Sco No. 2           A. J. Cannon                             A N179
-N Cir 1906    1906 02 14       AR Cir       14 48 09.48    -60 00 26.5    10.3 p            15   p     451    N?      N Cir No. 1           H. Leavitt                               H C130
-N Vel 1905    1905 12 05       CN Vel       11 02 38.61    -54 23 09.4    10.2 p            17  ?p  >  800    NB      N Vel No. 1           H. Leavitt                               A N173
-N Ari 1905    1905 11 06       SV Ari       03 25 03.61    +19 49 54.0    12   p            22   p      ?     N?      N Ari No. 2           M. Wolf/G. Wolf                          A N169
-N Aql 1905    1905 08 31       V604 Aql     19 02 06.24    -04 26 44.7     8.2 p    7.6 p   21   p      25    NA      N Aql No. 2           W. Fleming                               A N169
-N Sgr 1905    1905 08 18       V1015 Sgr    18 09 02.01    -32 28 31.7     7.1 p    6.5 p   21  ?j      34    NA:     N Sgr No. 6           I. E. Woods                              A N213
-N Aql 1904    1904 07 06       V607 Aql     19 35 25.44    +00 42 41.5    11.5 p           <18.5 p      -     M:      Zi 1733               M. Wolf, G. Wolf                         A N167
-N Ser 1903    1903 05          X Ser        16 19 17.60    -02 29 29.3     8.9 p    8.9 p   18.3 p      ?     NB:                           H. Leavitt                               A N179 a  285 T 9463
-N Gem 1903    1903 03 16       DM Gem       06 44 12.10    +29 56 41.8     4.8 v    4.8 v   16.7 p      22    NA      N Gem No. 1           H. H. Turner                             A N161
-N Pup 1902    1902 11 19       DY Pup       08 13 48.42    -26 33 57.2     7.0 p    7.0 p   20   p     160    NB:                           I. E. Woods                              H B760
-N Pyx 1890    1902             T Pyx        09 04 41.49    -32 22 47.2     6.5 p    6.5 p   15.3 p      88    NR                            H. Leavitt                               A N197   9205 C 2700   1983   1986   1993   2700   4275   4551   4553 A  651
-N Sco 1901    1901 09 02       V382 Sco     17 51 56.17    -35 25 05.3     9.5 p            22   j      ?     N:                            H. S. Leavitt                            H B902
-N Sgr 1901    1901 05 22       V1014 Sgr    18 06 45.69    -27 26 13.9    10.9 p   10.9 p   20   j  >   50    NA:     N Sgr No. 4           A. J. Cannon                             A N188
-N Per 1901    1901 02 21       GK Per       03 31 11.86    +43 54 16.9     0.2 v    0.2 v   14.0 v      13    NA      N Per No. 2           T. D. Anderson                           A N154   9122 T 7276 T 7248 T 7244 a  399 A  649
-N Sgr 1900    1900             HS Sgr       18 28 03.48    -21 34 24.7    11.5 p   10.0 p   17   j      ?     NB:                           I. E. Woods                              H B851
-N Sgr 1900    1900             AT Sgr       18 03 30.92    -26 28 28.5    11.0 p   10       19   j      35    NA:                           H. S. Leavitt                            A N167
-N Sgr 1899    1899 10 13       V1016 Sgr    18 19 57.59    -25 11 14.6     8.5 p    8.4 p   17   p     140    NB:     N Sgr No. 7           I. E. Woods                              A N186
-N Aql 1899    1899 04 21       V606 Aql     19 20 23.99    -00 08 01.5     6.7 p    5.5 p   17.3 p      65    NA      N Aql No. 1           W. Fleming                               A N153
-N Sgr 1898    1898 03 08       V1059 Sgr    19 01 50.47    -13 09 42.4     4.9 p    2.0 p   18.1 B      ?     NA      N Sgr No. 1           W. Fleming                               A N149
-N Oph 1898    1898             RS Oph       17 50 13.11    -06 42 28.4     4.3 v    4.3 v   12.5 v      var   NR      N Oph No. 3           W. Fleming                               A N254   8671   8673   8675   8677   8678   8681   8682   8683   8684   8687   8688   8695   8710   8753   8761
-              1898             RR Tel       20 04 18.48    -55 43 33.3     6.8 p    6.8 p       ?     2000    NC/ZAND                       Fleming, Kirchoff, de Kock               A N179
-N Sgr 1897    1897 09 21       LQ Sgr       18 28 28.84    -27 55 19.7    13.0 p            21   j      ?     N:                            I. E. Woods                              H B859
-N Oph 1897    1897             BB Oph       17 24 30.06    -24 48 06.1    11.3 p            19   j      ?     N:                            I. E. Woods                              H B835
-*             1896             NSV12329 Sgr 19 43 58.64    -40 26 11.6        ?                 ?       ?     N??                           W. Fleming                               H A056
-N Car 1895    1895 04 08       RS Car       11 08 06.66    -61 56 04.8     7.0 p    5.0 p  <22   j      ?     N                             W. Fleming                               A N139
-N Nor 1893    1893 07 10       IL Nor       15 29 23.05    -50 35 00.5     7.0 p    7.0 p   18  ?j     108    NB      N Nor No. 1           W. Fleming                               A N134
-N Oph 1893    1893 07 01 mp?   NSV07542 Oph 16 13 30.72    -05 18 43.5    11.5 p            21  ?j      ?     N?      mp?                   L. Fillippoff                            A N228
-N Sco 1893    1893 04 30       V384 Sco     18 01 43.20    -35 39 27.8    12.3 p    9.3 p   18.5 j      ?     N:      N Sgr 1893            H. H. Swope                              H B902
-N Gem 1892    1892 08 13       NSV03313 Gem 06 58 44       +17 02 11       7.0 v           <14   p      ?     N??                           E. E. Barnard                            A N172
-N Her 1892    1892 07 08       V360 Her     17 16 37.75    +24 26 51.4     6.3 p                ?       ?     N?      KZP 101642            Baillaud/de Grandchamp                   J O010
-N Aur 1891    1891 13 31       T Aur        05 31 59.11    +30 26 45.2     4.2 p    4.2 p   15.2 p     100    NB                            T. D. Andersen                           A N129
-N Per 1887    1887 12 19       V Per        02 01 53.79    +56 44 04.3     9.2 p    4   p   18.5 p      ?     N       N Per No. 1           W. Fleming                               A N126
-N Boo 1877    1877 05 30       AB Boo       14 07 03.62    +20 44 40.1     4.5 v             4.5?v      ?     N??     N Com 1877            F. Schwab                                A N155
-N Cyg 1876    1876 11 24       Q Cyg        21 41 43.87    +42 50 28.4     3.0 v    3.0 v   15.6 v      11    NA      N Cyg No. 2           J. Schmidt                               A N089
-N CrB 1866    1866 05 12       T CrB        15 59 30.12    +25 55 11.2     2.0 p    2.0 p   11.3 p     6.8    NR      MWC 413               J. Birmingham                            A N067
-N Sco 1863    1863 05 20       U Sco        16 22 30.72    -17 52 42.2     8.8 v    8.8 v   19.2 v       7    NR                            N. R. Pogson                             R M058    802   3341   3343   3373   3378   4395   4396   4397   4399   4405   7113   7115   7118   7129   7749   8279   9111 A  664
-N Sco 1862    1862 10 04       V728 Sco     17 39 12.52    -45 28 45.3     5.0 v            20  ?j  <   9?    N??     N Ara 1862            J. Tebbutt                               M N038
-N Sco 1860    1860 05 21  M80  T Sco        16 17 02.87    -22 58 30.5     7   v                ?       21    N:      N Sco No.1            E. Luther/A. Auwers                      A N053
-N Boo 1860    1860 04 09       T Boo        14 14 01.86    +19 04 03.5     9.8 v            18.5?p      ?     N??                           J. Baxendell                             M N021
-N Gem 1856b   1856 14 16       SY Gem       06 40 36       +31 11 26       9.2 v           <13   v      ?     N??                                                                    A N177
-N Gem 1856a   1856 03 31       VZ Gem       08 07 46       +30 50 53       8.7 v           <21  ?p      ?     N??                           R. Luther/W. Luther                      A N180
-N Leo 1855    1855 01 18       U Leo        10 24 03.3     +14 00 10      10.5 v           <15   v      ?     N??                           C. H. F. Peters                          A N087
-N Ari 1855    1855             W Ari        03 20 45.1     +28 57 13       9.5 v           <20   v      ?     N??                           H. Geelmuyden                            A N158
-N Ari 1854    1854 09 04       SU Ari       02 48 30       +17 21 53       9.5 v           <14.5 v      ?     N?      N Ari No. 1           S. Chevalier                             A N189
-N Per 1853    1853 11 30       SZ Per       03 47 06.3     +34 20 20       9.5 v                ?       ?     N??                           W. Luther                                A N179
-N Tri 1853    1853 09 30       NSV00856 Tri 03 19 06.6     +35 28 30       9.5 v                ?       ?     N??                           E. C. Pickering                          H A070
-N Oph 1848    1848 04 27       V841 Oph     16 59 30.29    -12 53 26.8     4.2 v    2   v   13.5 v     130    NB      N Oph No. 2           J. R. Hind                               A N027
+  (1915)      1915 05 09       GL Sct       18 45 47.78    -06 25 09.2    13.6 p                ?       ?     N?                            Ms. Hanner                               LA 021
+N Sgr 1914    1914 08 12       V1012 Sgr    18 06 14.14    -31 44 25.8     8.0 p    8.0 p   20   j      32    NA:     N Sgr No. 7           I. E. Woods                              AN 213
+N Sgr 1914    1914 07 16       V949 Sgr     18 41 03       -28 09 28      15.7 p                ?       ?     N:      Zi 1468               R. T. A. Innes                           UC 020
+N Cir 1914    1914 06 13       AI Cir       14 49 31.35    -68 51 36.1    10.9 p            23   j      ?     N:      N Cir No. 3           E. B. Florence                           HB 883
+N Sgr 1914    1914             V939 Sgr     18 34 22.81    -26 54 30.3    14.2 p            -           -     M       Zi 1428               R. T. A. Innes                           UC 020
+N Sge 1913    1913 11 22       WZ Sge       20 07 36.22    +17 42 15.4     7.0 p    7.0 p   15.0 p      30    UGWZ    N Sge No. 2           J. C. Mackie                             AN 210
+N Sgr 1912    1912 06 21       V941 Sgr     18 34 43.40    -29 34 49.1    11.0 p                ?       ?     M       Zi 1430               R. T. A. Innes                           UC 020
+N Gem 1912    1912 03 12       DN Gem       06 54 54.34    +32 08 27.8     3.5 p    3.5 p   15.8 p      37    NA      N Gem No. 2           S. Enebo                                 AN 191
+N Per 1912    1912 01 12       UW Per       02 12 29.65    +57 05 19.9    13.5 p            18.0?p      ?     UG/N:                         C. R. d'Esterre                          AN 191
+N Lac 1910    1910 12 30       DI Lac       22 35 48.50    +52 42 59.8     4.6 v    4.6 v   14.9 p      43    NA                            T. E. Espin                              AN 186
+N Ara 1910    1910 04 04       OY Ara       16 40 50.32    -52 25 51.3     6.0 p    5.1 p   17.5 p      80    NA                            W. Fleming                               AN 186
+N Sgr 1910    1910 03 21       V999 Sgr     18 00 05.63    -27 33 13.9     8.0 p    8.0 p   17.4 B     160    NB      N Sgr No. 2           W. Fleming                               AN 186
+N Ser 1909    1909             RT Ser       17 39 51.88    -11 56 38.0    10.6 p   10.6 p   16   p      ?     ZAND/NC                       M. Wolf, E. E. Barnard                   AN 204
+N Aqr 1907    1907 08 12       VY Aqr       21 12 09.05    -08 49 35.0     8.4 p            17.2 p      var   UGWZ                          F. E. Ross                               AJ 036 8 760  A  724
+N Sco 1906    1906 04 24       V711 Sco     17 54 06.06    -34 21 15.6     9.7 p    9.7 p   19   j      ?     N:      N Sco No. 2           A. J. Cannon                             AN 179
+N Cir 1906    1906 02 14       AR Cir       14 48 09.48    -60 00 26.5    10.3 p            15   p     451    N?      N Cir No. 1           H. Leavitt                               HC 130
+N Vel 1905    1905 12 05       CN Vel       11 02 38.61    -54 23 09.4    10.2 p            17  ?p  >  800    NB      N Vel No. 1           H. Leavitt                               AN 173
+N Ari 1905    1905 11 06       SV Ari       03 25 03.61    +19 49 54.0    12   p            22   p      ?     N?      N Ari No. 2           M. Wolf/G. Wolf                          AN 169
+N Aql 1905    1905 08 31       V604 Aql     19 02 06.24    -04 26 44.7     8.2 p    7.6 p   21   p      25    NA      N Aql No. 2           W. Fleming                               AN 169
+N Sgr 1905    1905 08 18       V1015 Sgr    18 09 02.01    -32 28 31.7     7.1 p    6.5 p   21  ?j      34    NA:     N Sgr No. 6           I. E. Woods                              AN 213
+N Aql 1904    1904 07 06       V607 Aql     19 35 25.44    +00 42 41.5    11.5 p           <18.5 p      -     M:      Zi 1733               M. Wolf, G. Wolf                         AN 167
+N Ser 1903    1903 05          X Ser        16 19 17.60    -02 29 29.3     8.9 p    8.9 p   18.3 p      ?     NB:                           H. Leavitt                               AN 179 a  285 T 9463
+N Gem 1903    1903 03 16       DM Gem       06 44 12.10    +29 56 41.8     4.8 v    4.8 v   16.7 p      22    NA      N Gem No. 1           H. H. Turner                             AN 161
+N Pup 1902    1902 11 19       DY Pup       08 13 48.42    -26 33 57.2     7.0 p    7.0 p   20   p     160    NB:                           I. E. Woods                              HB 760
+N Pyx 1890    1902             T Pyx        09 04 41.49    -32 22 47.2     6.5 p    6.5 p   15.3 p      88    NR                            H. Leavitt                               AN 197   9205 C 2700   1983   1986   1993   2700   4275   4551   4553 A  651
+N Sco 1901    1901 09 02       V382 Sco     17 51 56.17    -35 25 05.3     9.5 p            22   j      ?     N:                            H. S. Leavitt                            HB 902
+N Sgr 1901    1901 05 22       V1014 Sgr    18 06 45.69    -27 26 13.9    10.9 p   10.9 p   20   j  >   50    NA:     N Sgr No. 4           A. J. Cannon                             AN 188
+N Per 1901    1901 02 21       GK Per       03 31 11.86    +43 54 16.9     0.2 v    0.2 v   14.0 v      13    NA      N Per No. 2           T. D. Anderson                           AN 154   9122 T 7276 T 7248 T 7244 a  399 A  649
+N Sgr 1900    1900             HS Sgr       18 28 03.48    -21 34 24.7    11.5 p   10.0 p   17   j      ?     NB:                           I. E. Woods                              HB 851
+N Sgr 1900    1900             AT Sgr       18 03 30.92    -26 28 28.5    11.0 p   10       19   j      35    NA:                           H. S. Leavitt                            AN 167
+N Sgr 1899    1899 10 13       V1016 Sgr    18 19 57.59    -25 11 14.6     8.5 p    8.4 p   17   p     140    NB:     N Sgr No. 7           I. E. Woods                              AN 186
+N Aql 1899    1899 04 21       V606 Aql     19 20 23.99    -00 08 01.5     6.7 p    5.5 p   17.3 p      65    NA      N Aql No. 1           W. Fleming                               AN 153
+N Sgr 1898    1898 03 08       V1059 Sgr    19 01 50.47    -13 09 42.4     4.9 p    2.0 p   18.1 B      ?     NA      N Sgr No. 1           W. Fleming                               AN 149
+N Oph 1898    1898             RS Oph       17 50 13.11    -06 42 28.4     4.3 v    4.3 v   12.5 v      var   NR      N Oph No. 3           W. Fleming                               AN 254   8671   8673   8675   8677   8678   8681   8682   8683   8684   8687   8688   8695   8710   8753   8761 C 5013 C 5015 A  752 T  737 T  741 T  754 T13810 T14834 T14838 T14840 T14844 T14845 T14846 T14848 T14849 T14850 T14851 T14852 T14855 T14857 T14858
+              1898             RR Tel       20 04 18.48    -55 43 33.3     6.8 p    6.8 p       ?     2000    NC/ZAND                       Fleming, Kirchoff, de Kock               AN 179
+N Sgr 1897    1897 09 21       LQ Sgr       18 28 28.84    -27 55 19.7    13.0 p            21   j      ?     N:                            I. E. Woods                              HB 859
+N Oph 1897    1897             BB Oph       17 24 30.06    -24 48 06.1    11.3 p            19   j      ?     N:                            I. E. Woods                              HB 835
+*             1896             NSV12329 Sgr 19 43 58.64    -40 26 11.6        ?                 ?       ?     N??                           W. Fleming                               HA 056
+N Car 1895    1895 04 08       RS Car       11 08 06.66    -61 56 04.8     7.0 p    5.0 p  <22   j      ?     N                             W. Fleming                               AN 139
+N Nor 1893    1893 07 10       IL Nor       15 29 23.05    -50 35 00.5     7.0 p    7.0 p   18  ?j     108    NB      N Nor No. 1           W. Fleming                               AN 134
+N Oph 1893    1893 07 01 mp?   NSV07542 Oph 16 13 30.72    -05 18 43.5    11.5 p            21  ?j      ?     N?      mp?                   L. Fillippoff                            AN 228
+N Sco 1893    1893 04 30       V384 Sco     18 01 43.20    -35 39 27.8    12.3 p    9.3 p   18.5 j      ?     N:      N Sgr 1893            H. H. Swope                              HB 902
+N Gem 1892    1892 08 13       NSV03313 Gem 06 58 44       +17 02 11       7.0 v           <14   p      ?     N??                           E. E. Barnard                            AN 172
+N Her 1892    1892 07 08       V360 Her     17 16 37.75    +24 26 51.4     6.3 p                ?       ?     N?      KZP 101642            Baillaud/de Grandchamp                   JO 010
+N Aur 1891    1891 13 31       T Aur        05 31 59.11    +30 26 45.2     4.2 p    4.2 p   15.2 p     100    NB                            T. D. Andersen                           AN 129
+N Per 1887    1887 12 19       V Per        02 01 53.79    +56 44 04.3     9.2 p    4   p   18.5 p      ?     N       N Per No. 1           W. Fleming                               AN 126
+N Boo 1877    1877 05 30       AB Boo       14 07 03.62    +20 44 40.1     4.5 v             4.5?v      ?     N??     N Com 1877            F. Schwab                                AN 155
+N Cyg 1876    1876 11 24       Q Cyg        21 41 43.87    +42 50 28.4     3.0 v    3.0 v   15.6 v      11    NA      N Cyg No. 2           J. Schmidt                               AN 089
+N CrB 1866    1866 05 12       T CrB        15 59 30.12    +25 55 11.2     2.0 p    2.0 p   11.3 p     6.8    NR      MWC 413               J. Birmingham                            AN 067 A  750
+N Sco 1863    1863 05 20       U Sco        16 22 30.72    -17 52 42.2     8.8 v    8.8 v   19.2 v       7    NR                            N. R. Pogson                             RM 058    802   3341   3343   3373   3378   4395   4396   4397   4399   4405   7113   7115   7118   7129   7749   8279   9111 A  664
+N Sco 1862    1862 10 04       V728 Sco     17 39 12.52    -45 28 45.3     5.0 v            20  ?j  <   9?    N??     N Ara 1862            J. Tebbutt                               MN 038
+N Sco 1860    1860 05 21  M80  T Sco        16 17 02.87    -22 58 30.5     7   v                ?       21    N:      N Sco No.1            E. Luther/A. Auwers                      AN 053
+N Boo 1860    1860 04 09       T Boo        14 14 01.86    +19 04 03.5     9.8 v            18.5?p      ?     N??                           J. Baxendell                             MN 021
+N Gem 1856b   1856 14 16       SY Gem       06 40 36       +31 11 26       9.2 v           <13   v      ?     N??                                                                    AN 177
+N Gem 1856a   1856 03 31       VZ Gem       08 07 46       +30 50 53       8.7 v           <21  ?p      ?     N??                           R. Luther/W. Luther                      AN 180
+N Leo 1855    1855 01 18       U Leo        10 24 03.3     +14 00 10      10.5 v           <15   v      ?     N??                           C. H. F. Peters                          AN 087
+N Ari 1855    1855             W Ari        03 20 45.1     +28 57 13       9.5 v           <20   v      ?     N??                           H. Geelmuyden                            AN 158
+N Ari 1854    1854 09 04       SU Ari       02 48 30       +17 21 53       9.5 v           <14.5 v      ?     N?      N Ari No. 1           S. Chevalier                             AN 189
+N Per 1853    1853 11 30       SZ Per       03 47 06.3     +34 20 20       9.5 v                ?       ?     N??                           W. Luther                                AN 179
+N Tri 1853    1853 09 30       NSV00856 Tri 03 19 06.6     +35 28 30       9.5 v                ?       ?     N??                           E. C. Pickering                          HA 070
+N Oph 1848    1848 04 27       V841 Oph     16 59 30.29    -12 53 26.8     4.2 v    2   v   13.5 v     130    NB      N Oph No. 2           J. R. Hind                               AN 027
 N Car 1843    1843             eta Car      10 45 03.62    -59 41 04.2    -0.8 v   -0.8 v    9.0 v     16.7y  SDOR    CPD-59 2620           Burchell
 N Sge 1783    1783             WY Sge       19 32 43.78    +17 44 54.5     6   v            19.5 p      ?     N       N Sge No. 1           J. L. d'Agelet
 N Ori 1678    1678 03 28       V529 Ori     05 58 22       +20 15 25       6   v            20.5?p      ?     N??     N Ori 1667 (!)        J. Hevelius
