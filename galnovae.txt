@@ -1,7 +1,10 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
-  Sgr         2021 09 19       Gaia21ejq    18 00 44.88    -21 39 40.5    12.4 J   17.26G                             PGIR21git             AT2021aadi                               T14950 T14958
-  Sco         2021 08 22.42    Gaia21dyi    17 26 19.38    -33 27 10.7    14.86G                                                            ASASSN-21pa                              T14880
-  Sco         2021 08 18       Gaia21dwe    16 44 50.21    -45 15 48.10            16.33G                                                   Gaia                                     T14928
+  Nor         2021 10 06.63752 Gaia21eqn    15 27 31.61    -55 06 23.8             13.86G                             AT2021abud                                                     T15001
+  Sgr         2021 09 20,24279 Gaia21esm    17 54 14.14    -24 12 23.5             13.77G                             AT2021abxa                                                     T15001
+  Sco         2021 09 19.41142 Gaia21ejf    17 32 21.96    -33 01 41.5    18.39G   18.23G                             AT2021aaav                                                     T14957
+  Sgr         2021 09 19.42196 Gaia21ejq    18 00 44.88    -21 39 40.5    12.4 J   17.26G                             PGIR21git             AT2021aadi                               T14950 T14958
+  Sco         2021 08 22.42189 Gaia21dyi    17 26 19.38    -33 27 10.7    14.86G                                      AT2021wvu             ASASSN-21pa                              T14880
+  Sco         2021 08 18.66652 Gaia21dwe    16 44 50.21    -45 15 48.10            16.33G                             AT2021wkq             Gaia                                     T14928
 N Vul 2021    2021 07 16.475   V606 Vul     20 21 07.70    +29 14 09.1    12       10.0                               TCP J20210770+2914093 S. Kiyota                                C 5007 C 5012 T14793 T14816 T14832 A  749
   Sco         2021 06 22.0703  AT 2021quw   17 39 44.729   -36 16 40.19   15   g   12.7                                                     ASASSN-21lk                              T14744 T14768
 N Her 2021    2021 06 12.537   V1674 Her    18 57 30.98    +16 53 39.5     8.4      6.0                               TCP J18573095+1653396 S. Ueda                                  C 4976 C 4977 C 5001 A  745 T14704 T14705 T14707 T14710 T14713 T14718 T14720 T14723 T14728 T14731 T14736 T14737 T14740 T14741 T14746 T14747 T14758 T14765 T14776 T14798 T14805 T14824 T14835 T14856
