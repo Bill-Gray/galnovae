@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+  Sgr         2022 02 27       Gaia22bhs    17 49 05.55    -29 22 37.0    17.55G                                      AT2022gjz                                                      T15318
   Nor         2021 10 06.63752 Gaia21eqn    15 27 31.61    -55 06 23.8             13.86G                             AT2021abud                                                     T15001
   Sgr         2021 09 20.24279 Gaia21esm    17 54 14.14    -24 12 23.5             13.77G                             AT2021abxa                                                     T15001
   Sco         2021 09 19.41142 Gaia21ejf    17 32 21.96    -33 01 41.5    18.39G   18.23G                             AT2021aaav                                                     T14957
