@@ -529,5 +529,7 @@ N Sge 1783    1783             WY Sge       19 32 43.78    +17 44 54.5     6   v
 N Ori 1678    1678 03 28       V529 Ori     05 58 22       +20 15 25       6   v            20.5?p      ?     N??     N Ori 1667 (!)        J. Hevelius
 N Pup 1673    1673 01 12       NSV03846 Pup 07 58 59.30    -43 49 23.1     3   v            20   p      ?     N??     Zi 816                J. Richer
 N Vul 1670    1670 06 20       CK Vul       19 47 37.93    +27 18 40.1     2.6 v            20.7?       ?     N:      N Vul No. 1           D. Anthelme
+  Cnc         1645?            AT Cnc       08 28 36.90    +25 20 02.9                      16.2 B            N??/UGZ
 N Leo 1612    1612 03 30       NSV04550 Leo 09 36 59       +15 15 06       4   v                ?       ?     N??     Zi 767                C. Scheiner
+  Cam          -76?            Z Cam        08 25 13.18    +73 06 39.1                      14.5 V            N??/UGZ
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
