@@ -46,7 +46,7 @@ T Pyx: 1890, 1902, 1920, 1944, 1966 Dec 10, 2011 Apr 14
 IM Nor: 1920 Jul 7, 2002 Jan 3
 CI Aql: 1917 Jun 25, 1941, 2000 Apr 28
 V2487 Oph: 1900, 1998
-U Sco: 1863, 1906, 1917, 1936, 1945, 1969, 1979, 1987, 1999, 2022
+U Sco: 1863, 1906, 1917, 1936, 1945, 1969, 1979, 1987, 1999, 2010 Jan 28, 2022 Jun 06
 V394 CrA: 1949, 1987
 T CrB: 1866, 1946
 RS Oph: 1898, 1907, 1933, 1945, 1958, 1967, 1985, 2006
@@ -56,7 +56,8 @@ V3890 Sgr: 1962, 1990, 2019 Aug 27
 RR Tel is listed as an 1898 event in 'nova_list.htm' (at
    http://www.cfa.harvard.edu/iau/nova_list.html ),  and its discovery
    by W. Fleming matches this.  In our file,  we had it as (1948).  Maybe
-   that's a re-explosion?
+   that's a re-explosion?  (Note : turns out it increased to naked-eye
+   visibility in the late 1940s and got its nova designation then.)
 
    Eight objects are in "our" list that do not appear in 'novalist.htm' at all:
 

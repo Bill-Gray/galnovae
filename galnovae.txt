@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Mus 2022    2022 06 08       V415 Mus     13 24 31.30    -72 10 30.3     9.5 g    8.7 g                             AT2022mmp             ASASSN-22hw                              T15435 C 5135 A  781
   Sgr         2022 04 24       PGIR22gjh    18 08 42.68    -19 21 58.5     9.51J                                      AT2022iev                                                      T15348
   Sgr         2022 02 27       Gaia22bhs    17 49 05.55    -29 22 37.0    17.55G                                      AT2022gjz                                                      T15318
   Vel         2022 02 04.2     Gaia22alz    09 29 53.06    -56 17 25.9    16.87G   12.5 g                             AT2022bpq                                                      T15270 T15355 T15395
@@ -512,7 +513,7 @@ N Per 1887    1887 12 19       V Per        02 01 53.79    +56 44 04.3     9.2 p
 N Boo 1877    1877 05 30       AB Boo       14 07 03.62    +20 44 40.1     4.5 v             4.5?v      ?     N??     N Com 1877            F. Schwab                                AN 155
 N Cyg 1876    1876 11 24       Q Cyg        21 41 43.87    +42 50 28.4     3.0 v    3.0 v   15.6 v      11    NA      N Cyg No. 2           J. Schmidt                               AN 089
 N CrB 1866    1866 05 12       T CrB        15 59 30.12    +25 55 11.2     2.0 p    2.0 p   11.3 p     6.8    NR      MWC 413               J. Birmingham                            AN 067 A  750
-N Sco 1863    1863 05 20       U Sco        16 22 30.72    -17 52 42.2     8.8 v    8.8 v   19.2 v       7    NR                            N. R. Pogson                             RM 058 C 5128 C 5129 T15417 T15420    802   3341   3343   3373   3378   4395   4396   4397   4399   4405   7113   7115   7118   7129   7749   8279   9111 A  664
+N Sco 1863    1863 05 20       U Sco        16 22 30.72    -17 52 42.2     8.8 v    8.8 v   19.2 v       7    NR                            N. R. Pogson                             RM 058 C 5128 C 5129 T15417 T15420 T15422 T15423 T15436 T15438    802   3341   3343   3373   3378   4395   4396   4397   4399   4405   7113   7115   7118   7129   7749   8279   9111 A  664
 N Sco 1862    1862 10 04       V728 Sco     17 39 12.52    -45 28 45.3     5.0 v            20  ?j  <   9?    N??     N Ara 1862            J. Tebbutt                               MN 038
 N Sco 1860    1860 05 21  M80  T Sco        16 17 02.87    -22 58 30.5     7   v                ?       21    N:      N Sco No.1            E. Luther/A. Auwers                      AN 053
 N Boo 1860    1860 04 09       T Boo        14 14 01.86    +19 04 03.5     9.8 v            18.5?p      ?     N??                           J. Baxendell                             MN 021
