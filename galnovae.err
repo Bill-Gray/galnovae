@@ -79,6 +79,10 @@ IAU Circular 8927 shows it as discovered in March.
 unfiltered mag 12.4 (the way I listed it) and by ASAS-SN at mag 15.2V on
 2015 oct 1.29,  reported by B. J. Shappee et. al.  Take your pick.
 
+   V890 Aql = "N" Aql 1946 was a detection of the minor planet (258) Tyche.
+Computing its location for that date/time puts it almost exactly on the
+reported coordinates.
+
 Version history:
 (2004 Nov 22 version: added N Pup 2004)
 (2005 Mar 30: added V5115 Sgr = N Sgr 2005, V382 Nor = N Nor 2005)
