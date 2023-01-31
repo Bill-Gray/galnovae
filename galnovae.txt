@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Men 2022    2022 09 16.1222  AT2022ufh    06 29 08.41    -71 29 38.9    13.69o                                      ATLAS22beux           ATLAS                                    A  793 T15639
   Cyg         2022 08 16       AT2022sfe    20 00 29.26    +34 53 09.1    13.4 J   18   g                             ZTF22abazrjk          PGIR22akgylf                             T15587
   Cir         2022 06 25.487   FQ Cir       15 24 47.63    -60 59 47.3    10.7                                        TCP J15244460-6059200 A. Pearce                                T15473 T15511 C 5138
 N Mus 2022    2022 06 08       V415 Mus     13 24 31.30    -72 10 30.3     9.5 g    8.7 g                             AT2022mmp             ASASSN-22hw                              T15435 C 5135 A  781
@@ -493,7 +494,7 @@ N Pup 1902    1902 11 19       DY Pup       08 13 48.42    -26 33 57.2     7.0 p
 N Pyx 1890    1902             T Pyx        09 04 41.49    -32 22 47.2     6.5 p    6.5 p   15.3 p      88    NR                            H. Leavitt                               AN 197   9205 C 2700   1983   1986   1993   2700   4275   4551   4553 A  651
 N Sco 1901    1901 09 02       V382 Sco     17 51 56.17    -35 25 05.3     9.5 p            22   j      ?     N:                            H. S. Leavitt                            HB 902
 N Sgr 1901    1901 05 22       V1014 Sgr    18 06 45.69    -27 26 13.9    10.9 p   10.9 p   20   j  >   50    NA:     N Sgr No. 4           A. J. Cannon                             AN 188
-N Per 1901    1901 02 21       GK Per       03 31 11.86    +43 54 16.9     0.2 v    0.2 v   14.0 v      13    NA      N Per No. 2           T. D. Anderson                           AN 154   2740   3240   3574   9122 T 7276 T 7248 T 7244 a  399 A  649
+N Per 1901    1901 02 21       GK Per       03 31 11.86    +43 54 16.9     0.2 v    0.2 v   14.0 v      13    NA      N Per No. 2           T. D. Anderson                           AN 154   2740   3240   3574   9122 C 5206 T 7276 T 7248 T 7244 a  399 A  649 A  807
 N Sgr 1900    1900             HS Sgr       18 28 03.48    -21 34 24.7    11.5 p   10.0 p   17   j      ?     NB:                           I. E. Woods                              HB 851
 N Sgr 1900    1900             AT Sgr       18 03 30.92    -26 28 28.5    11.0 p   10       19   j      35    NA:                           H. S. Leavitt                            AN 167
 N Sgr 1899    1899 10 13       V1016 Sgr    18 19 57.59    -25 11 14.6     8.5 p    8.4 p   17   p     140    NB:     N Sgr No. 7           I. E. Woods                              AN 186
