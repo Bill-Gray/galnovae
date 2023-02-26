@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Sgr 2023    2023 02 18.834   V6596 Sgr    17 56 27.90    -17 14 53.6    10.5                                        TCP J17562787-1714548 A. Pearce, H. Nishimura, Y. Sakurai      C 5224 C 5225 A  813 T15914 T15911 T15910
 N Men 2022    2022 09 16.1222  AT2022ufh    06 29 08.41    -71 29 38.9    13.69o                                      ATLAS22beux           ATLAS                                    A  793 T15639
   Cyg         2022 08 16       AT2022sfe    20 00 29.26    +34 53 09.1    13.4 J   18   g                             ZTF22abazrjk          PGIR22akgylf                             T15587
   Cir         2022 06 25.487   FQ Cir       15 24 47.63    -60 59 47.3    10.7                                        TCP J15244460-6059200 A. Pearce                                T15473 T15511 C 5138
