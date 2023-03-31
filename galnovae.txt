@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+  Aql         2023 03 05.5386  Gaia23azk    19 07 13.71    +09 28 53.7    13.85                                       AT2023ctx             Gaia                                     T15956
 N Sgr 2023    2023 02 18.834   V6596 Sgr    17 56 27.90    -17 14 53.6    10.5                                        TCP J17562787-1714548 A. Pearce, H. Nishimura, Y. Sakurai      C 5224 C 5225 A  813 T15914 T15911 T15910
 N Men 2022    2022 09 16.1222  AT2022ufh    06 29 08.41    -71 29 38.9    13.69o                                      ATLAS22beux           ATLAS                                    A  793 T15639
   Cyg         2022 08 16       AT2022sfe    20 00 29.26    +34 53 09.1    13.4 J   18   g                             ZTF22abazrjk          PGIR22akgylf                             T15587
@@ -492,7 +493,7 @@ N Aql 1904    1904 07 06       V607 Aql     19 35 25.44    +00 42 41.5    11.5 p
 N Ser 1903    1903 05          X Ser        16 19 17.60    -02 29 29.3     8.9 p    8.9 p   18.3 p      ?     NB:                           H. Leavitt                               AN 179 a  285 T 9463
 N Gem 1903    1903 03 16       DM Gem       06 44 12.10    +29 56 41.8     4.8 v    4.8 v   16.7 p      22    NA      N Gem No. 1           H. H. Turner                             AN 161
 N Pup 1902    1902 11 19       DY Pup       08 13 48.42    -26 33 57.2     7.0 p    7.0 p   20   p     160    NB:                           I. E. Woods                              HB 760
-N Pyx 1890    1902             T Pyx        09 04 41.49    -32 22 47.2     6.5 p    6.5 p   15.3 p      88    NR                            H. Leavitt                               AN 197   9205 C 2700   1983   1986   1993   2700   4275   4551   4553 A  651
+N Pyx 1890    1902             T Pyx        09 04 41.49    -32 22 47.2     6.5 p    6.5 p   15.3 p      88    NR                            H. Leavitt                               AN 197   9205 C 2700   1983   1986   1993   2700   4275   4551   4553 A  651 A  784 A  815
 N Sco 1901    1901 09 02       V382 Sco     17 51 56.17    -35 25 05.3     9.5 p            22   j      ?     N:                            H. S. Leavitt                            HB 902
 N Sgr 1901    1901 05 22       V1014 Sgr    18 06 45.69    -27 26 13.9    10.9 p   10.9 p   20   j  >   50    NA:     N Sgr No. 4           A. J. Cannon                             AN 188
 N Per 1901    1901 02 21       GK Per       03 31 11.86    +43 54 16.9     0.2 v    0.2 v   14.0 v      13    NA      N Per No. 2           T. D. Anderson                           AN 154   2740   3240   3574   9122 C 5206 T 7276 T 7248 T 7244 a  399 A  649 A  807
