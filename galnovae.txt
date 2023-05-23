@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Sgr 2023/2  2023 05 16.688   V6597 Sgr    17 58 34.19    -26 52 29.33   13.9                                        TCP J17583414-2652300 K. Itagaki                               C 5260 A16038
 N Sco 2023    2023 04 20.6780  V1716 Sco    17 22 45.05    -41 37 16.3     8.0      7.3                               PNV J17224490-4137160 A. Pearce                                C 5245 A  821 T16002 T16003 T16004 T16005 T16006 T16007
   Aql         2023 04 12?      AT2023gde    19 10 19.302   +10 32 21.40   11.66J    9.5 J                                                   PGIR23gjp or PGIR23abnath                T15993 T15994 T15997
   Aql         2023 03 05.5386  Gaia23azk    19 07 13.71    +09 28 53.7    13.85                                       AT2023ctx             Gaia                                     T15956
