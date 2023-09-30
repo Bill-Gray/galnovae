@@ -1,7 +1,7 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
   Scu         2023 09 11                    18 41 41.53    -07 09 34.2             12.26G   17.17g                    AT2023tow                                                      T16255
   Sco         2023 08 31                    17 18 33.82    -31 23 46.1             13.1                               TCP J17183380-3123452 Brazilian Transient Search (BraTS)       T16246
-  Sco         2023 07 24.9                  17 28 23.64    -31 13 17.6             13.5                               TCP J17282355-3113163 Brazilian Transient Search (BraTS)       T16184
+N Sco 2023/2  2023 07 24.9     V1717 Sco    17 28 23.64    -31 13 17.6             13.5                               TCP J17282355-3113163 Brazilian Transient Search (BraTS)       C 5295 T16184
 N Sgr 2023/3  2023 07 15.459   V6598 Sgr    17 52 49.30    -20 24 15.5    10.3     10.2 V                             TCP J17525020-2024150 A. Pearce, Y. Nakamura                   C 5278 A  829 T16135 T16141 T16142 T16151 T16163 T16172
 N Nor 2023    2023 06 27.0994  V567 Nor     16 27 23.85    -46 01 56.8    14.9     13.9 V                             TCP J16272388-4601564 Brazilian Transient Search (BraTS)       C 5275 T16111
 N Sgr 2023/2  2023 05 16.688   V6597 Sgr    17 58 34.19    -26 52 29.33   13.9     12   CR <23   r                    TCP J17583414-2652300 K. Itagaki                               C 5260 T16038
