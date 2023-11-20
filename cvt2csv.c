@@ -53,12 +53,16 @@ const char *header = "'Nova_name','year_disc','month_disc','day_disc','GCVS_ID',
          "'min_mag_band','T3_indicator','T3','GCVS_class','obscure_xid',"
          "'discoverers'";
 
+#define INTENTIONALLY_UNUSED_PARAMETER( param) (void)(param)
+
 int main( const int argc, const char **argv)
 {
    char buff[1000];
    FILE *ifile = fopen( "galnovae.txt", "rb");
    int i;
 
+   INTENTIONALLY_UNUSED_PARAMETER( argc);
+   INTENTIONALLY_UNUSED_PARAMETER( argv);
    for( i = 0; header[i]; i++)
       if( header[i] == '\'')
          printf( "\"");

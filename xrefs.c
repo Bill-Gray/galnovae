@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <assert.h>
 
 /* Small bit of code to extract cross-references from 'iauc8000.txt',
 putting them in the format used in 'galnovae.txt'.   The original
@@ -11,6 +12,7 @@ int main( const int argc, const char **argv)
    char buff[300];
    FILE *ifile = fopen( "iauc8000.txt", "rb");
 
+   assert( argc == 2);
    while( fgets( buff, sizeof( buff), ifile))
       if( strstr( buff, argv[1]))
          {

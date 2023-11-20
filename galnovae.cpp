@@ -37,6 +37,8 @@ static void fix_line_using_iau_data( char *iline, const char *iau_data)
       }
 }
 
+#define INTENTIONALLY_UNUSED_PARAMETER( param) (void)(param)
+
 int main( const int argc, const char **argv)
 {
    FILE *ifile = fopen( "iau_list.txt", "rb");
@@ -45,6 +47,8 @@ int main( const int argc, const char **argv)
    char buff[500];
    const bool report_missed_hits = (argc > 1);
 
+   INTENTIONALLY_UNUSED_PARAMETER( argc);
+   INTENTIONALLY_UNUSED_PARAMETER( argv);
    assert( iau);
    assert( ifile);
    while( fgets( buff, sizeof( buff), ifile))
