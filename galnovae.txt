@@ -1,6 +1,6 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
 N Oph 2024    2024 03 10.775   V4370 Oph    17 39 57.08    -26 27 41.9             10.3                               TCP J17395720-2627410 T. Kojima, K. Itagaki, Y. Nakamura       C 5365 T16521 A  856
-N Sco 2024    2024 02 08.82778 V1723 Sco    17 26 18.07    -38 09 36.3     7.8      7.8                               PNV J17261813-3809354 A. Pearce, Y. Sakurai                    C 5346 A  849 T16439 T16440 T16441 T16442 T16444 T16454
+N Sco 2024    2024 02 08.82778 V1723 Sco    17 26 18.07    -38 09 36.3     7.8      7.8                               PNV J17261813-3809354 A. Pearce, Y. Sakurai                    C 5346 A  849 T16439 T16440 T16441 T16442 T16444 T16454 T16484 T16492
 N Sgr 2024    2024 01 27.8704  V6620 Sgr    18 02 53.58    -29 14 14.2              9.7                               PNV J18025353-2914151 Y. Nakamura                              C 5357 T16428
   Scu         2023 09 11                    18 41 41.53    -07 09 34.2             12.26G   17.17g                    AT2023tow                                                      T16255 T16259
 N Sco 2023/3  2023 08 31       V1718 Sco    17 18 33.82    -31 23 46.1             13.1                               TCP J17183380-3123452 Brazilian Transient Search (BraTS)       C 5297 T16246
@@ -428,7 +428,7 @@ N Cyg 1938    1938 09 28       V404 Cyg     20 24 03.73    +33 52 03.3    12.5 p
 N Ara 1937    1937 07          KY Ara       18 08 20.86    -54 56 12.9    15.1 p            18  ?p      ?     UG?                           C. D. Boyd                               HA 090
               1937 06 29       V733 Sco     17 39 42.92    -35 52 38.4    13.5 p            21   j      ?     M:/N:   Plaut V106            L. Plaut                                 LA 021
 N Sgr 1937    1937 05 20       V787 Sgr     18 00 02.11    -30 30 29.9     9.8 p            21  ?j      74    NA:                           H. H. Swope                              HB 913
-  (1937)      1937 05 10       V745 Sco     17 55 22.16    -33 14 57.5    11.2 p            21   j      12    NR      Also in 1989          L. Plaut                                 LA 021 C 3803 A  497 A  496 a  380 T 5962 T 5897 T 5884 T 5881 T 5879 T 5877 T 5874 T 5871 T 5870 T 5865 T 5862
+  (1937)      1937 05 10       V745 Sco     17 55 22.16    -33 14 57.5    11.2 p            21   j      12    NR      Also in 1989          L. Plaut                                 LA 021 C 3803 C 5368 A  497 A  496 a  380 T 5962 T 5897 T 5884 T 5881 T 5879 T 5877 T 5874 T 5871 T 5870 T 5865 T 5862
 N Sco 1937    1937             V734 Sco     17 45 01.53    -35 37 55.9    14.7 p            20   j      ?     M:/N:   Plaut V110            L. Plaut
 N Aql 1936/2  1936 10 07       V368 Aql     19 26 34.44    +07 36 13.7     5.0 p    5.0 p   15.4 p  ?   17    NA      N Aql No. 6           N. Tamm                                    0625
 N Sgr 1936    1936 10 03       V630 Sgr     18 08 48.29    -34 20 21.35    4.5 v    4.5 v   19   j      11    NA      N Sgr No. 7           S. Okabayashi                              0622
