@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+  Sco         2024 03 19.32                 17 01 24.74    -36 33 02.8             14.1 g                             ASASSN-24ca                                                    T16550
 N Oph 2024    2024 03 10.775   V4370 Oph    17 39 57.08    -26 27 41.9             10.3                               TCP J17395720-2627410 T. Kojima, K. Itagaki, Y. Nakamura       C 5365 T16521 A  856
 N Sco 2024    2024 02 08.82778 V1723 Sco    17 26 18.07    -38 09 36.3     7.8      7.8                               PNV J17261813-3809354 A. Pearce, Y. Sakurai                    C 5346 A  849 T16439 T16440 T16441 T16442 T16444 T16454 T16484 T16492
 N Sgr 2024    2024 01 27.8704  V6620 Sgr    18 02 53.58    -29 14 14.2              9.7                               PNV J18025353-2914151 Y. Nakamura                              C 5357 T16428
