@@ -1,4 +1,5 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+N Sco 2024/3  2024 09 09.436   V1725 Sco    17 06 46.52    -34 28 06.9    11.4                                        TCP J17064645-3528079 K. Itagaki, A. Pearce                    C 5444 T16808
 N Vul 2024    2024 07 29.832   V615 Vul     19 43 07.50    +21 00 21.4    11.2      9.8                               PNV J19430751+2100204 New Milky Way survey                     C 5423 T16743 T16746
   Sgr         2024 07 17.05    ASASSN-24fb  17 49 02.71    -23 24 05.7    12.43V   11.3                               TCP J17490276-2324066 K. Itagaki                               T16727
   Sct         2024 05 19.376                18 38 28.43    -08 53 27.26            20.2 g                             ZTF24aaomlxy                                                   T16658
