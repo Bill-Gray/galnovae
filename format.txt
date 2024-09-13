@@ -1,3 +1,6 @@
+The data in 'galnovae.txt' and 'galnovae.csv' are identical.  The latter
+is created from the former,  using the 'cvt2csv.c' utility.
+
   1      A14  Name
  15      I4   Year discovered
  20      I2   Month discovered
@@ -19,7 +22,7 @@
 111      A7   GCVS classification
 119      A21  Obscure cross-ID
 141      A40  Discover(ers)
-182      A6   Reference1.  All references start with
+182      A6   Reference 1.  All references start with
 
 'A' = AAVSO Alert Notice
 'a' = AAVSO Special Notice
@@ -30,7 +33,7 @@
 'PZ' = Peremennye Zvezdy
 
    ...followed by up to five digits.
-189      A6   Reference2
-195      A6   Reference3
+189      A6   Reference 2
+195      A6   Reference 3
 ...
-175+7n   A6   Referencen.  Currently,  maximum n=75 (references for N Cyg 1992).
+175+7n   A6   Reference n.  Currently,  maximum n=75 (references for N Cyg 1992).
