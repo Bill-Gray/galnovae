@@ -9,15 +9,33 @@ and can be run as,  e.g.,  './cvt2csv > galnovae.csv'.   */
 #include <string.h>
 #include <assert.h>
 
-static const int column_starts[] = {
-         1, 15, 20, 23, 32, 45, 60, 74, 75, 80, 84, 89, 92, 93, 97, 98, 101, 103, 111, 119, 141, 182, 189, 196};
+static const int column_sizes[] = {
+        14, 5, 3, 9, 13, 15,        /* name,  yyyy, mm, dd.dd,  GCVS name, RA */
+        14, 1, 5, 4,                /* dec,  mag. < or >, disc. mag,  photo band */
+        5, 3, 1, 4,                 /* max mag, max mag band,  min mag < or >, min mag */
+        1, 3, 2,                    /* min mag ? or uncertain,  min mag,  band */
+        8, 8, 22, 41,               /* T3,  spect class, obscure xid,  disc name */
+        7, 7, 7 };                  /* references 1, 2, 3... */
+
+#ifdef COLUMN_STARTS_FOR_REFERENCE
+         1, 15, 20, 23, 32, 45,     /* name,  yyyy, mm, dd.dd,  GCVS name, RA */
+        60, 74, 75, 80,             /* dec,  mag. < or >, disc. mag,  photo band */
+        84, 89, 92, 93,             /* max mag, max mag band,  min mag < or >, min mag */
+        97, 98, 101,                /* min mag ? or uncertain,  min mag,  band */
+       103, 111, 119, 141,          /* T3,  spect class, obscure xid,  disc name */
+       182, 189, 196                /* references 1, 2, 3... */
+#endif
 
 static int extract_field( char *obuff, const char *buff, const int field_no)
 {
    int start, end;
-   const int n_fields = (int)( sizeof( column_starts) / sizeof( column_starts[0]));
+   int column_starts[50];
+   const int n_fields = (int)( sizeof( column_sizes) / sizeof( column_sizes[0]));
    const int ilen = (int)strlen( buff);
 
+   column_starts[0] = 1;
+   for( int i = 1; i < n_fields; i++)
+      column_starts[i] = column_starts[i - 1] + column_sizes[i - 1];
    if( field_no < n_fields - 1)
       {
       start = column_starts[field_no];
