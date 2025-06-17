@@ -65,11 +65,11 @@ static int extract_field( char *obuff, const char *buff, const int field_no)
    return( 0);
 }
 
-const char *header = "'Nova_name','year_disc','month_disc','day_disc','GCVS_ID',"
-         "'RA','dec','disc_mag_indicator','disc_mag','disc_mag_band','max_mag',"
-         "'max_mag_band','min_mag_indicator','min_mag','min_mag_flag',"
-         "'min_mag_band','T3_indicator','T3','GCVS_class','obscure_xid',"
-         "'discoverers'";
+const char *tags[] = {  "Nova_name", "year_disc", "month_disc", "day_disc", "GCVS_ID",
+         "RA", "dec", "disc_mag_indicator", "disc_mag", "disc_mag_band", "max_mag",
+         "max_mag_band", "min_mag_indicator", "min_mag", "min_mag_flag",
+         "min_mag_band", "T3_indicator", "T3", "GCVS_class", "obscure_xid",
+         "discoverers", NULL };
 
 #define INTENTIONALLY_UNUSED_PARAMETER( param) (void)(param)
 
@@ -81,11 +81,10 @@ int main( const int argc, const char **argv)
 
    INTENTIONALLY_UNUSED_PARAMETER( argc);
    INTENTIONALLY_UNUSED_PARAMETER( argv);
-   for( i = 0; header[i]; i++)
-      if( header[i] == '\'')
-         printf( "\"");
-      else
-         printf( "%c", header[i]);
+   assert( ifile);
+   printf( "\"%s\"", tags[0]);
+   for( i = 1; tags[i]; i++)
+      printf( ",\"%s\"", tags[i]);
    for( i = 0; i < 90; i++)
       printf( ",\"ref_%d\"", i);
    printf( "\n");
@@ -100,5 +99,6 @@ int main( const int argc, const char **argv)
             printf( "%s\"%s\"", (i ? "," : ""), field);
          printf( "\n");
          }
+   fclose( ifile);
    return( 0);
 }
