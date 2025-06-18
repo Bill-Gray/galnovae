@@ -1,9 +1,12 @@
 /* Code to read in 'galnovae.txt' and write 'galnovae.csv' to stdout.
- First try at it.  Let's see what happens... compiles with
+Compiles with
 
 gcc -Wall -Wextra -pedantic -o cvt2csv cvt2csv.c
 
-and can be run as,  e.g.,  './cvt2csv > galnovae.csv'.   */
+and can be run as,  e.g.,  './cvt2csv > galnovae.csv'.  Add a command line
+argument,  and it outputs the format for galnovae.txt,  as reconstructed
+from the column_size[] array and the names for the columns given in the
+tags[] array.        */
 
 #include <stdio.h>
 #include <string.h>
@@ -16,15 +19,6 @@ static const int column_sizes[] = {
         1, 3, 2,                    /* min mag ? or uncertain,  min mag,  band */
         8, 8, 22, 41,               /* T3,  spect class, obscure xid,  disc name */
         7, 7, 7 };                  /* references 1, 2, 3... */
-
-#ifdef COLUMN_STARTS_FOR_REFERENCE
-         1, 15, 20, 23, 32, 45,     /* name,  yyyy, mm, dd.dd,  GCVS name, RA */
-        60, 74, 75, 80,             /* dec,  mag. < or >, disc. mag,  photo band */
-        84, 89, 92, 93,             /* max mag, max mag band,  min mag < or >, min mag */
-        97, 98, 101,                /* min mag ? or uncertain,  min mag,  band */
-       103, 111, 119, 141,          /* T3,  spect class, obscure xid,  disc name */
-       182, 189, 196                /* references 1, 2, 3... */
-#endif
 
 static int extract_field( char *obuff, const char *buff, const int field_no)
 {
@@ -79,8 +73,19 @@ int main( const int argc, const char **argv)
    FILE *ifile = fopen( "galnovae.txt", "rb");
    int i;
 
-   INTENTIONALLY_UNUSED_PARAMETER( argc);
    INTENTIONALLY_UNUSED_PARAMETER( argv);
+   if( argc == 2)       /* just show column sizes/starts/labels */
+      {
+      int col = 1, ref_size;
+
+      for( i = 0; tags[i]; col += column_sizes[i], i++)
+         printf( "%4d %2d %s\n", col, column_sizes[i], tags[i]);
+      printf( "%4d  7 ref1\n", col);
+      ref_size = column_sizes[i];
+      printf( "Subsequent refs at %d, %d, %d...\n", col + ref_size,
+                  col + 2 * ref_size,  col + 3 * ref_size);
+      return( 0);
+      }
    assert( ifile);
    printf( "\"%s\"", tags[0]);
    for( i = 1; tags[i]; i++)
