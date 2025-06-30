@@ -1,5 +1,6 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
-N Lup 2025    2025 06 12.87    V462 Lup     15 08 03.27    -40 08 29.6     8.7 AB   6.4                               AT 2025nlr            ASASSN-25cm                              C 5570 T17228
+N Vel 2025    2025 06 25.440   V572 Vel     10 25 13.88    -53 31 19.2     5.7      4.8                               PNV J10251200-5331109 J. Seach, A. Pearce                      C 5574 T17252 T17253 T17254
+N Lup 2025    2025 06 12.87    V462 Lup     15 08 03.27    -40 08 29.6     8.7 AB   5.3                               AT 2025nlr            ASASSN-25cm                              C 5570 T17228 T17237 T17240 T17249
 N Sgr 2025/3  2025 03 24.056   V7993 Sgr    18 02 21.64    -33 10 31.9    12.2     10.3                               TCP J18022164-3310319 New Milky Way Survey, T. Kojima          C 5531 T17108 A  890 T17122
 N Sgr 2025/2  2025 01 29.88    V7992 Sgr    17 59 04.46    -36 01 07.7             10.1                               TCP J17590439-3601111 K. Itagaki, A. Pearce                    C 5499 T17012
 N Sgr 2025/1  2025 01 26.86    V7991 Sgr    18 26 54.51    -27 19 12.1              9.0                               TCP J18265456-2719122 Y. Sakurai                               C 5498 T17012
