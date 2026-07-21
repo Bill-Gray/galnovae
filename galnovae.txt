@@ -1,7 +1,9 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
+  Sct         2026 07 08                    18 31 15.62    -05 34 31.9    15.1 r                                      AT 2026stb            ZTF                                      T17886
 N Aql 2026    2026 07 01.3     V2104 Aql    19 14 31.37    +12 03 53.6    12.53r                                      AT 2026rdg            M. Ning, H. Lin, ZTF                     C 5711 T17867 T17868 T17871
 N Mus 2026    2026 05 11       V419 Mus     11 44 32.26    -68 48 26.5   <10   g    7.9                               AT 2026noc            ASASSN-26no                              C 5690 C 5703 T17813
   Aql         2026 04 03                    18 43 58.56    +01 52 48.46   19.64r   13.77r                             ZTF26aatyimr          AT2026lck                                T17801 T17805 T17806
+  Sgr         2026 03 10                    17 46 20.70    -29 04 18.8    11.4 H                                      PRIME26aaabsh                                                  T17743
   Sgr         2026 02 18                    18 20 24.66    -16 53 36.7                                                                      Fermi J1820-1648                         T17688 T17689 T17698 T16699 T17700 T17704 T17707
   Cru         2025 11 29.7188               12 31 24.40    -59 07 08.5    10.8 U                                      PNV J12312434-5907133 J. Seach                                 T17579
 N Cen 2025    2025 09 22.396   V1935 Cen    14 37 21.80    -58 47 40.8     6.2                                        PNV J14372177-5847400 J. Seach                                 C 5611 T17414 A17418 T17444 T17446 T17459 T17477 A  906
