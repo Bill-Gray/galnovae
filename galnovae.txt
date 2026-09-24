@@ -1,5 +1,6 @@
 NOVA          YEAR MM DD.ddddd VARIABLE    RAH RAMRAS 2000 DEd  '  "      DISC.MAG MAX.MAG MIN.MAG     T3     CLASS   OBSCURE XID           DISCOVERER(S)
-N Sge 2026    2026 08 25.12    V488 Sge     19 45 06.49    +18 22 42.1     9.0      7.1                               PNV J19450648+1822422 NMW-TTU-26bp                             C 5729 T18008 T18009 T18012 T18014 T18021 T18022 T18028 T18033
+  Sgr         2026 09 08.79    AT 2026abbx  17 52 06.81    -23 43 20.5    12.6 g                                      TCP J17520680-2343207 ASASSN-26fc                              TOCP
+N Sge 2026    2026 08 25.12    V488 Sge     19 45 06.49    +18 22 42.1     9.0      7.1                               PNV J19450648+1822422 NMW-TTU-26bp                             C 5729 T18008 T18009 T18012 T18014 T18021 T18022 T18028 T18033 T18053
 N Sgr 2026/3  2026 08 19.106   V8055 Sgr    18 25 12.76    -22 25 29.3     9.4      8.5                               TCP J18251276-2225293 NMW-TexasTech Survey                     C 5724 T17987 T17989 T17995
 N Tau 2026    2026 08 06.4109  V1452 Tau    05 21 07.64    +23 38 20.0    11.2 V    8.9                               TCP J05210763+2338194 NMW-TexasTech Survey                     C 5723 T17947 T17950 T17960 T17970 T17972
   Sct         2026 07 08                    18 31 15.62    -05 34 31.9    15.1 r                                      AT 2026stb            ZTF                                      T17886
